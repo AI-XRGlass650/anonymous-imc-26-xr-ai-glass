@@ -1,1825 +1,0 @@
-Timestamp: Tue Nov  4 12:15:13 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7202792K used,   536628K free,     2124K buffers
- Swap:  3869704K total,  2959632K used,   910072K free,  1703044K cached
-900%cpu 179%user   0%nice 136%sys 539%idle   0%iow  43%irq   4%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  22G 707M 340M S 35.7   9.3  24:06.42 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.8M S  0.0   0.1 296:46.37 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.5M S  0.0   0.1  43:58.97 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:15:15 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7232008K used,   507412K free,     2124K buffers
- Swap:  3869704K total,  2959632K used,   910072K free,  1703540K cached
-900%cpu 159%user   0%nice 163%sys 533%idle   0%iow  41%irq   4%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  22G 709M 341M S 29.6   9.3  24:06.91 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.8M S  0.0   0.1 296:46.37 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.5M S  0.0   0.1  43:58.99 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:15:16 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7233312K used,   506108K free,     2124K buffers
- Swap:  3869704K total,  2959376K used,   910328K free,  1704452K cached
-900%cpu 204%user   0%nice 144%sys 504%idle   0%iow  44%irq   4%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  22G 710M 341M S 33.3   9.3  24:07.37 com.instagram.a+
- 1020 mediacodec   20   0  11G  10M 7.5M S  3.7   0.1  43:59.00 samsung.hardwar+
- 1206 mediacodec   20   0  12G  12M 8.8M S  0.0   0.1 296:46.37 media.swcodec o+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:15:18 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7243252K used,   496168K free,     2124K buffers
- Swap:  3869704K total,  2958352K used,   911352K free,  1708308K cached
-900%cpu 159%user   4%nice 170%sys 515%idle   4%iow  41%irq   7%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  22G 711M 341M S 59.2   9.4  24:07.91 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.8M S  0.0   0.1 296:46.37 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.5M S  0.0   0.1  43:59.02 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:15:19 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7247308K used,   492112K free,     2124K buffers
- Swap:  3869704K total,  2956816K used,   912888K free,  1709268K cached
-900%cpu 207%user   0%nice 189%sys 448%idle   0%iow  48%irq   7%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  22G 687M 316M S 37.0   9.0  24:08.47 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.8M S  0.0   0.1 296:46.37 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.5M S  0.0   0.1  43:59.04 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:15:20 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7250656K used,   488764K free,     2124K buffers
- Swap:  3869704K total,  2956816K used,   912888K free,  1709596K cached
-900%cpu 185%user   0%nice 174%sys 489%idle   0%iow  44%irq   7%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  22G 688M 316M S 37.0   9.1  24:09.02 com.instagram.a+
- 1020 mediacodec   20   0  11G  10M 7.5M S  3.7   0.1  43:59.05 samsung.hardwar+
- 1206 mediacodec   20   0  12G  12M 8.8M S  0.0   0.1 296:46.37 media.swcodec o+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:15:22 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7252344K used,   487076K free,     2124K buffers
- Swap:  3869704K total,  2956816K used,   912888K free,  1709636K cached
-900%cpu 174%user   4%nice 156%sys 507%idle   0%iow  44%irq  15%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  22G 689M 316M S 33.3   9.1  24:09.54 com.instagram.a+
- 1020 mediacodec   20   0  11G  10M 7.5M S  3.7   0.1  43:59.07 samsung.hardwar+
- 1206 mediacodec   20   0  12G  12M 8.8M S  0.0   0.1 296:46.37 media.swcodec o+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:15:23 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7276440K used,   462980K free,     2124K buffers
- Swap:  3869704K total,  2956816K used,   912888K free,  1709636K cached
-900%cpu 181%user   0%nice 141%sys 533%idle   0%iow  41%irq   4%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  22G 690M 316M S 33.3   9.1  24:10.09 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.8M S  0.0   0.1 296:46.37 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.5M S  0.0   0.1  43:59.09 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:15:25 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7279992K used,   459428K free,     2124K buffers
- Swap:  3869704K total,  2956816K used,   912888K free,  1709636K cached
-900%cpu 200%user   7%nice 170%sys 467%idle   0%iow  48%irq   7%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  22G 691M 316M S 55.5   9.1  24:10.63 com.instagram.a+
- 1020 mediacodec   20   0  11G  10M 7.5M S  3.7   0.1  43:59.11 samsung.hardwar+
- 1206 mediacodec   20   0  12G  12M 8.8M S  0.0   0.1 296:46.37 media.swcodec o+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:15:26 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7282760K used,   456660K free,     2124K buffers
- Swap:  3869704K total,  2956816K used,   912888K free,  1709696K cached
-900%cpu 181%user   4%nice 148%sys 511%idle   0%iow  48%irq   7%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  22G 692M 316M S 33.3   9.1  24:11.19 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.8M S  0.0   0.1 296:46.37 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.5M S  0.0   0.1  43:59.13 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:15:27 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7281568K used,   457852K free,     2124K buffers
- Swap:  3869704K total,  2956560K used,   913144K free,  1709696K cached
-900%cpu 170%user   0%nice 152%sys 522%idle   0%iow  48%irq   7%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  22G 692M 316M S 37.0   9.1  24:11.67 com.instagram.a+
- 1020 mediacodec   20   0  11G  10M 7.5M S  3.7   0.1  43:59.15 samsung.hardwar+
- 1206 mediacodec   20   0  12G  12M 8.8M S  0.0   0.1 296:46.37 media.swcodec o+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:15:29 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7280964K used,   458456K free,     2124K buffers
- Swap:  3869704K total,  2956560K used,   913144K free,  1709696K cached
-900%cpu 133%user   0%nice 163%sys 556%idle   0%iow  41%irq   7%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  22G 694M 316M S 29.6   9.1  24:12.17 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.8M S  0.0   0.1 296:46.37 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.5M S  0.0   0.1  43:59.17 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:15:30 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7280368K used,   459052K free,     2124K buffers
- Swap:  3869704K total,  2956304K used,   913400K free,  1709696K cached
-900%cpu 189%user   4%nice 141%sys 519%idle   0%iow  41%irq   7%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  22G 694M 316M S 37.0   9.1  24:12.70 com.instagram.a+
- 1020 mediacodec   20   0  11G  10M 7.5M S  3.7   0.1  43:59.18 samsung.hardwar+
- 1206 mediacodec   20   0  12G  12M 8.8M S  0.0   0.1 296:46.37 media.swcodec o+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:15:32 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7287436K used,   451984K free,     2124K buffers
- Swap:  3869704K total,  2956304K used,   913400K free,  1709696K cached
-900%cpu 148%user   0%nice 126%sys 581%idle   0%iow  41%irq   4%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  22G 695M 316M S 29.6   9.2  24:13.23 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.8M S  0.0   0.1 296:46.37 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.5M S  0.0   0.1  43:59.21 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:15:33 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7284740K used,   454680K free,     2124K buffers
- Swap:  3869704K total,  2956304K used,   913400K free,  1709696K cached
-900%cpu 193%user   0%nice 137%sys 526%idle   0%iow  41%irq   4%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  22G 696M 316M S 37.0   9.2  24:13.73 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.8M S  0.0   0.1 296:46.37 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.5M S  0.0   0.1  43:59.23 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:15:34 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7290496K used,   448924K free,     2124K buffers
- Swap:  3869704K total,  2956304K used,   913400K free,  1709708K cached
-900%cpu 156%user   0%nice 130%sys 567%idle   0%iow  41%irq   7%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  22G 697M 316M S 29.6   9.2  24:14.27 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.8M S  0.0   0.1 296:46.37 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.5M S  0.0   0.1  43:59.25 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:15:36 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7292032K used,   447388K free,     2124K buffers
- Swap:  3869704K total,  2956304K used,   913400K free,  1709832K cached
-900%cpu 156%user   0%nice 133%sys 563%idle   0%iow  41%irq   7%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  22G 697M 316M S 33.3   9.2  24:14.76 com.instagram.a+
- 1020 mediacodec   20   0  11G  10M 7.5M S  3.7   0.1  43:59.26 samsung.hardwar+
- 1206 mediacodec   20   0  12G  12M 8.8M S  0.0   0.1 296:46.37 media.swcodec o+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:15:37 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7292032K used,   447388K free,     2124K buffers
- Swap:  3869704K total,  2956304K used,   913400K free,  1709832K cached
-900%cpu 156%user   0%nice 137%sys 559%idle   0%iow  41%irq   7%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  22G 698M 316M S 37.0   9.2  24:15.26 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.8M S  0.0   0.1 296:46.37 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.5M S  0.0   0.1  43:59.28 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:15:38 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7292992K used,   446428K free,     2124K buffers
- Swap:  3869704K total,  2956304K used,   913400K free,  1709832K cached
-900%cpu 189%user   4%nice 126%sys 537%idle   0%iow  41%irq   4%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  22G 699M 316M S 33.3   9.2  24:15.74 com.instagram.a+
- 1020 mediacodec   20   0  11G  10M 7.5M S  3.7   0.1  43:59.29 samsung.hardwar+
- 1206 mediacodec   20   0  12G  12M 8.8M S  0.0   0.1 296:46.37 media.swcodec o+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:15:40 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7293996K used,   445424K free,     2124K buffers
- Swap:  3869704K total,  2956304K used,   913400K free,  1709832K cached
-900%cpu 178%user   0%nice 137%sys 544%idle   0%iow  37%irq   4%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  22G 700M 316M S 33.3   9.2  24:16.24 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.8M S  0.0   0.1 296:46.37 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.5M S  0.0   0.1  43:59.32 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:15:41 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7298028K used,   441392K free,     2124K buffers
- Swap:  3869704K total,  2956304K used,   913400K free,  1709832K cached
-900%cpu 156%user   0%nice 156%sys 537%idle   0%iow  44%irq   7%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  22G 701M 316M S 37.0   9.2  24:16.77 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.8M S  0.0   0.1 296:46.37 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.5M S  0.0   0.1  43:59.34 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:15:43 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7296728K used,   442692K free,     2124K buffers
- Swap:  3869704K total,  2956304K used,   913400K free,  1709860K cached
-900%cpu 156%user   0%nice 152%sys 544%idle   0%iow  41%irq   7%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  22G 693M 307M S 37.0   9.1  24:17.28 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.8M S  0.0   0.1 296:46.37 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.5M S  0.0   0.1  43:59.35 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:15:44 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7299552K used,   439868K free,     2124K buffers
- Swap:  3869704K total,  2956304K used,   913400K free,  1709860K cached
-900%cpu 189%user   0%nice 148%sys 511%idle   0%iow  44%irq   7%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  22G 694M 307M S 37.0   9.1  24:17.77 com.instagram.a+
- 1020 mediacodec   20   0  11G  10M 7.5M S  3.7   0.1  43:59.37 samsung.hardwar+
- 1206 mediacodec   20   0  12G  12M 8.8M S  0.0   0.1 296:46.37 media.swcodec o+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:15:45 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7300484K used,   438936K free,     2124K buffers
- Swap:  3869704K total,  2956304K used,   913400K free,  1709860K cached
-900%cpu 178%user   4%nice 159%sys 511%idle   0%iow  44%irq   4%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  22G 695M 307M S 55.5   9.1  24:18.26 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.8M S  0.0   0.1 296:46.37 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.5M S  0.0   0.1  43:59.39 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:15:47 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7307012K used,   432408K free,     2124K buffers
- Swap:  3869704K total,  2956304K used,   913400K free,  1710136K cached
-900%cpu 152%user   4%nice 130%sys 567%idle   0%iow  37%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  22G 692M 302M S 48.1   9.1  24:18.83 com.instagram.a+
- 1020 mediacodec   20   0  11G  10M 7.5M S  3.7   0.1  43:59.40 samsung.hardwar+
- 1206 mediacodec   20   0  12G  12M 8.8M S  0.0   0.1 296:46.37 media.swcodec o+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:15:48 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  6714976K used,  1024444K free,     2124K buffers
- Swap:  3869704K total,  2955792K used,   913912K free,  1709736K cached
-900%cpu 137%user  11%nice 122%sys 585%idle   7%iow  30%irq   7%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  22G 629M 293M S  137   8.3  24:19.99 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.8M S  0.0   0.1 296:46.37 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.5M S  0.0   0.1  43:59.41 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:15:50 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7187004K used,   552416K free,     2124K buffers
- Swap:  3869704K total,  2954768K used,   914936K free,  1710036K cached
-900%cpu 181%user   4%nice 156%sys 526%idle   0%iow  30%irq   4%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  22G 664M 307M S 62.9   8.7  24:20.80 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.8M S  0.0   0.1 296:46.37 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.5M S  0.0   0.1  43:59.41 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:15:51 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7246464K used,   492956K free,     2164K buffers
- Swap:  3869704K total,  2901008K used,   968696K free,  1793636K cached
-900%cpu 207%user   0%nice 181%sys 463%idle   4%iow  37%irq   7%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  22G 677M 309M S 25.9   8.9  24:21.34 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.8M S  0.0   0.1 296:46.37 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.5M S  0.0   0.1  43:59.42 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:15:52 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7342576K used,   396844K free,     2164K buffers
- Swap:  3869704K total,  2889744K used,   979960K free,  1828172K cached
-900%cpu 181%user   7%nice 226%sys 433%idle   7%iow  37%irq   7%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  22G 678M 309M S 25.9   8.9  24:21.74 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.8M S  0.0   0.1 296:46.37 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.5M S  0.0   0.1  43:59.44 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:15:54 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7439472K used,   299948K free,     2208K buffers
- Swap:  3869704K total,  2836240K used,  1033464K free,  1878060K cached
-900%cpu 181%user  12%nice 177%sys 458%idle  15%iow  38%irq  19%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 682M 310M S 23.0   9.0  24:22.14 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.8M S  0.0   0.1 296:46.37 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.5M S  0.0   0.1  43:59.45 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:15:55 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7467432K used,   271988K free,     2208K buffers
- Swap:  3869704K total,  2834960K used,  1034744K free,  1884468K cached
-900%cpu 175%user  14%nice 132%sys 536%idle   0%iow  36%irq   7%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 683M 310M S 25.0   9.0  24:22.55 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.8M S  0.0   0.1 296:46.37 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.5M S  0.0   0.1  43:59.46 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:15:57 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7028052K used,   711368K free,     2208K buffers
- Swap:  3869704K total,  2824208K used,  1045496K free,  1901252K cached
-900%cpu 196%user  19%nice 258%sys 362%idle  27%iow  35%irq   4%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 685M 310M S 96.1   9.0  24:23.01 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.5M S  3.8   0.1 296:46.42 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.5M S  0.0   0.1  43:59.47 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:15:58 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7410668K used,   328752K free,     2208K buffers
- Swap:  3869704K total,  2750224K used,  1119480K free,  1994936K cached
-900%cpu 146%user  27%nice 154%sys 523%idle   4%iow  35%irq  12%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 714M 338M S 34.6   9.4  24:23.55 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.5M S  3.8   0.1 296:46.43 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.5M S  3.8   0.1  43:59.47 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:15:59 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7420512K used,   318908K free,     2208K buffers
- Swap:  3869704K total,  2748944K used,  1120760K free,  1997948K cached
-900%cpu 156%user   0%nice 185%sys 507%idle   0%iow  44%irq   7%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 718M 340M S 48.1   9.4  24:24.17 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.5M S  0.0   0.1 296:46.44 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.5M S  0.0   0.1  43:59.49 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:01 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7421960K used,   317460K free,     2208K buffers
- Swap:  3869704K total,  2748432K used,  1121272K free,  1999260K cached
-900%cpu 174%user   0%nice 156%sys 526%idle   0%iow  41%irq   4%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 711M 332M S 29.6   9.4  24:24.80 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.5M S  0.0   0.1 296:46.44 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.5M S  0.0   0.1  43:59.50 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:02 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7442664K used,   296756K free,     2208K buffers
- Swap:  3869704K total,  2748176K used,  1121528K free,  2000416K cached
-900%cpu 156%user  30%nice 144%sys 533%idle   0%iow  33%irq   4%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 727M 342M S 48.1   9.6  24:25.63 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 7.9M S  7.4   0.1 296:46.47 media.swcodec o+
- 1020 mediacodec   20   0  11G 9.1M 6.9M S  7.4   0.1  43:59.54 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:03 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7415028K used,   324392K free,     2208K buffers
- Swap:  3869704K total,  2746384K used,  1123320K free,  2000836K cached
-900%cpu 181%user   4%nice 163%sys 493%idle   0%iow  48%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 731M 344M S 85.1   9.6  24:26.47 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 7.9M S 11.1   0.1 296:46.61 media.swcodec o+
- 1020 mediacodec   20   0  11G 9.1M 6.9M S 11.1   0.1  43:59.66 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:05 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7424700K used,   314720K free,     2208K buffers
- Swap:  3869704K total,  2744848K used,  1124856K free,  2005492K cached
-900%cpu 193%user   0%nice 189%sys 467%idle   0%iow  44%irq   7%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 733M 344M S 74.0   9.7  24:27.56 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 7.9M S 14.8   0.1 296:46.75 media.swcodec o+
- 1020 mediacodec   20   0  11G 9.2M 6.9M S  7.4   0.1  43:59.82 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:06 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7427492K used,   311928K free,     2208K buffers
- Swap:  3869704K total,  2744848K used,  1124856K free,  2006424K cached
-900%cpu 204%user   0%nice 144%sys 489%idle   0%iow  48%irq  15%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 735M 345M S 74.0   9.7  24:28.64 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 7.9M S 11.1   0.1 296:46.90 media.swcodec o+
- 1020 mediacodec   20   0  11G 9.2M 6.9M S  7.4   0.1  43:59.96 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:08 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7435944K used,   303476K free,     2208K buffers
- Swap:  3869704K total,  2744336K used,  1125368K free,  2007580K cached
-900%cpu 193%user   7%nice 167%sys 481%idle   0%iow  41%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 736M 345M S 70.3   9.7  24:29.70 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 7.9M S 11.1   0.1 296:47.04 media.swcodec o+
- 1020 mediacodec   20   0  11G 9.2M 6.9M S  7.4   0.1  44:00.12 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:09 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7396592K used,   342828K free,     2208K buffers
- Swap:  3869704K total,  2758896K used,  1110808K free,  1985844K cached
-900%cpu 167%user   0%nice 156%sys 522%idle   0%iow  48%irq   7%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 739M 345M S 70.3   9.7  24:30.74 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.0M S 14.8   0.1 296:47.19 media.swcodec o+
- 1020 mediacodec   20   0  11G 9.2M 6.9M S  7.4   0.1  44:00.27 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:10 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7405188K used,   334232K free,     2208K buffers
- Swap:  3869704K total,  2756592K used,  1113112K free,  1986888K cached
-900%cpu 181%user   4%nice 162%sys 496%idle   0%iow  46%irq  12%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 739M 345M S 84.6   9.7  24:31.79 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.0M S 11.5   0.1 296:47.35 media.swcodec o+
- 1020 mediacodec   20   0  11G 9.2M 6.9M S 11.5   0.1  44:00.42 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:12 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7408964K used,   330456K free,     2208K buffers
- Swap:  3869704K total,  2755568K used,  1114136K free,  1986948K cached
-900%cpu 167%user   0%nice 152%sys 522%idle   0%iow  48%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 742M 345M S 77.7   9.8  24:32.84 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.0M S  7.4   0.1 296:47.47 media.swcodec o+
- 1020 mediacodec   20   0  11G 9.2M 6.9M S  7.4   0.1  44:00.57 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:13 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7419440K used,   319980K free,     2208K buffers
- Swap:  3869704K total,  2755056K used,  1114648K free,  1987356K cached
-900%cpu 141%user   4%nice 178%sys 515%idle   0%iow  48%irq  15%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 743M 345M S 70.3   9.8  24:33.94 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.0M S 11.1   0.1 296:47.61 media.swcodec o+
- 1020 mediacodec   20   0  11G 9.2M 6.9M S  7.4   0.1  44:00.71 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:15 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7431800K used,   307620K free,     2208K buffers
- Swap:  3869704K total,  2746864K used,  1122840K free,  1987988K cached
-900%cpu 196%user   4%nice 159%sys 481%idle   0%iow  52%irq   7%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 744M 346M S 88.8   9.8  24:34.86 com.instagram.a+
- 1020 mediacodec   20   0  11G 9.2M 6.9M S 14.8   0.1  44:00.85 samsung.hardwar+
- 1206 mediacodec   20   0  12G  12M 8.0M S 11.1   0.1 296:47.75 media.swcodec o+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:16 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7433864K used,   305556K free,     2208K buffers
- Swap:  3869704K total,  2746864K used,  1122840K free,  1988020K cached
-900%cpu 178%user  30%nice 167%sys 470%idle   0%iow  44%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 746M 346M S 70.3   9.8  24:36.02 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.0M S  7.4   0.1 296:47.91 media.swcodec o+
- 1020 mediacodec   20   0  11G 9.2M 6.9M S  7.4   0.1  44:01.02 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:17 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7344024K used,   395396K free,     2208K buffers
- Swap:  3869704K total,  2800264K used,  1069440K free,  1958680K cached
-900%cpu 181%user  12%nice 188%sys 462%idle   0%iow  46%irq  12%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 747M 345M S 96.1   9.8  24:36.99 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.1M S 11.5   0.1 296:48.04 media.swcodec o+
- 1020 mediacodec   20   0  11G 9.2M 6.9M S 11.5   0.1  44:01.18 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:19 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7349528K used,   389892K free,     2208K buffers
- Swap:  3869704K total,  2799752K used,  1069952K free,  1958932K cached
-900%cpu 170%user   7%nice 189%sys 478%idle   0%iow  44%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 754M 346M S 81.4   9.9  24:38.21 com.instagram.a+
- 1020 mediacodec   20   0  11G 9.2M 6.9M S  7.4   0.1  44:01.35 samsung.hardwar+
- 1206 mediacodec   20   0  12G  12M 8.1M S  3.7   0.1 296:48.21 media.swcodec o+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:20 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7358788K used,   380632K free,     2208K buffers
- Swap:  3869704K total,  2798984K used,  1070720K free,  1968524K cached
-900%cpu 200%user   0%nice 165%sys 469%idle   4%iow  50%irq  12%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 755M 346M S 84.6   9.9  24:39.36 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.1M S 11.5   0.1 296:48.35 media.swcodec o+
- 1020 mediacodec   20   0  11G 9.2M 6.9M S  7.6   0.1  44:01.51 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:21 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7360156K used,   379264K free,     2208K buffers
- Swap:  3869704K total,  2798984K used,  1070720K free,  1969004K cached
-900%cpu 231%user   0%nice 173%sys 423%idle   0%iow  58%irq  15%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 755M 346M S 92.3   9.9  24:40.54 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.1M S 15.3   0.1 296:48.51 media.swcodec o+
- 1020 mediacodec   20   0  11G 9.2M 6.9M S 15.3   0.1  44:01.67 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:23 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7328912K used,   410508K free,     2208K buffers
- Swap:  3869704K total,  2825172K used,  1044532K free,  1961520K cached
-900%cpu 165%user   0%nice 177%sys 500%idle   0%iow  46%irq  12%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 756M 346M S 69.2  10.0  24:41.70 com.instagram.a+
- 1020 mediacodec   20   0  11G 9.2M 7.0M S 11.5   0.1  44:01.85 samsung.hardwar+
- 1206 mediacodec   20   0  12G  12M 8.1M S  7.6   0.1 296:48.68 media.swcodec o+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:24 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7328420K used,   411000K free,     2208K buffers
- Swap:  3869704K total,  2825172K used,  1044532K free,  1961656K cached
-900%cpu 174%user   0%nice 159%sys 507%idle   0%iow  44%irq  15%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 758M 346M S 70.3  10.0  24:42.84 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.1M S 14.8   0.1 296:48.80 media.swcodec o+
- 1020 mediacodec   20   0  11G 9.2M 7.0M S 11.1   0.1  44:02.00 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:26 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7323196K used,   416224K free,     2208K buffers
- Swap:  3869704K total,  2830248K used,  1039456K free,  1959592K cached
-900%cpu 159%user   4%nice 144%sys 537%idle   0%iow  48%irq   7%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 759M 347M S 77.7  10.0  24:43.94 com.instagram.a+
- 1020 mediacodec   20   0  11G 9.2M 7.0M S 14.8   0.1  44:02.17 samsung.hardwar+
- 1206 mediacodec   20   0  12G  12M 8.2M S  7.4   0.1 296:48.97 media.swcodec o+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:27 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7324788K used,   414632K free,     2208K buffers
- Swap:  3869704K total,  2830248K used,  1039456K free,  1959508K cached
-900%cpu 170%user   4%nice 170%sys 493%idle   4%iow  48%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 761M 346M S 81.4  10.0  24:45.10 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.2M S 14.8   0.1 296:49.12 media.swcodec o+
- 1020 mediacodec   20   0  11G 9.2M 7.0M S 11.1   0.1  44:02.34 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:28 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7316520K used,   422900K free,     2208K buffers
- Swap:  3869704K total,  2835592K used,  1034112K free,  1957340K cached
-900%cpu 212%user   0%nice 185%sys 442%idle   0%iow  50%irq  12%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 762M 346M S 92.3  10.0  24:46.24 com.instagram.a+
- 1020 mediacodec   20   0  11G 9.3M 7.0M S 11.5   0.1  44:02.52 samsung.hardwar+
- 1206 mediacodec   20   0  12G  12M 8.2M S  7.6   0.1 296:49.32 media.swcodec o+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:30 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7290440K used,   448980K free,     2208K buffers
- Swap:  3869704K total,  2855664K used,  1014040K free,  1947460K cached
-900%cpu 178%user   0%nice 200%sys 459%idle   0%iow  52%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 763M 346M S 77.7  10.0  24:47.36 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.2M S 14.8   0.1 296:49.47 media.swcodec o+
- 1020 mediacodec   20   0  11G 9.3M 7.0M S 14.8   0.1  44:02.69 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:31 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7292772K used,   446648K free,     2208K buffers
- Swap:  3869704K total,  2855664K used,  1014040K free,  1947496K cached
-900%cpu 193%user  11%nice 159%sys 474%idle   0%iow  52%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 751M 333M S 77.7   9.9  24:48.54 com.instagram.a+
- 1020 mediacodec   20   0  11G 9.3M 7.0M S 11.1   0.1  44:02.87 samsung.hardwar+
- 1206 mediacodec   20   0  12G  12M 8.2M S  7.4   0.1 296:49.68 media.swcodec o+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:33 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7289916K used,   449504K free,     2208K buffers
- Swap:  3869704K total,  2867056K used,  1002648K free,  1947468K cached
-900%cpu 174%user   0%nice 163%sys 504%idle   0%iow  48%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 753M 333M S 85.1   9.9  24:49.63 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.2M S 11.1   0.1 296:49.82 media.swcodec o+
- 1020 mediacodec   20   0  11G 9.3M 7.0M S 11.1   0.1  44:03.03 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:34 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7290496K used,   448924K free,     2208K buffers
- Swap:  3869704K total,  2867056K used,  1002648K free,  1947500K cached
-900%cpu 170%user   0%nice 148%sys 526%idle   0%iow  48%irq   7%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 754M 333M S 74.0   9.9  24:50.74 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.2M S 11.1   0.1 296:49.98 media.swcodec o+
- 1020 mediacodec   20   0  11G 9.3M 7.0M S 11.1   0.1  44:03.20 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:35 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7292896K used,   446524K free,     2208K buffers
- Swap:  3869704K total,  2867056K used,  1002648K free,  1947548K cached
-900%cpu 196%user   0%nice 174%sys 474%idle   0%iow  48%irq   7%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 756M 333M S 85.1  10.0  24:51.92 com.instagram.a+
- 1020 mediacodec   20   0  11G 9.3M 7.0M S 14.8   0.1  44:03.35 samsung.hardwar+
- 1206 mediacodec   20   0  12G  12M 8.3M S 11.1   0.1 296:50.16 media.swcodec o+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:37 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7295112K used,   444308K free,     2208K buffers
- Swap:  3869704K total,  2866544K used,  1003160K free,  1948024K cached
-900%cpu 159%user   4%nice 159%sys 526%idle   0%iow  44%irq   7%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 757M 333M S 70.3  10.0  24:53.08 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.3M S 11.1   0.1 296:50.32 media.swcodec o+
- 1020 mediacodec   20   0  11G 9.3M 7.0M S  7.4   0.1  44:03.54 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:38 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7300200K used,   439220K free,     2208K buffers
- Swap:  3869704K total,  2866544K used,  1003160K free,  1949096K cached
-900%cpu 181%user   0%nice 188%sys 473%idle   0%iow  50%irq   8%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 758M 333M S 80.7  10.0  24:54.20 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.3M S 15.3   0.1 296:50.46 media.swcodec o+
- 1020 mediacodec   20   0  11G 9.3M 7.0M S  7.6   0.1  44:03.70 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:40 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7298864K used,   440556K free,     2208K buffers
- Swap:  3869704K total,  2866544K used,  1003160K free,  1949112K cached
-900%cpu 222%user   7%nice 144%sys 463%idle   0%iow  48%irq  15%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 760M 333M S 81.4  10.0  24:55.40 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.3M S 14.8   0.1 296:50.63 media.swcodec o+
- 1020 mediacodec   20   0  11G 9.3M 7.0M S 11.1   0.1  44:03.88 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:41 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7299872K used,   439548K free,     2208K buffers
- Swap:  3869704K total,  2866288K used,  1003416K free,  1949140K cached
-900%cpu 196%user   0%nice 177%sys 458%idle   0%iow  54%irq  15%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 761M 333M S 80.7  10.0  24:56.56 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.3M S  7.6   0.1 296:50.81 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.2M S  7.6   0.1  44:04.08 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:42 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7302456K used,   436964K free,     2208K buffers
- Swap:  3869704K total,  2866288K used,  1003416K free,  1949212K cached
-900%cpu 174%user   0%nice 159%sys 507%idle   0%iow  48%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 763M 333M S 74.0  10.0  24:57.71 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.3M S  7.4   0.1 296:50.97 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.2M S  7.4   0.1  44:04.25 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:44 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7302992K used,   436428K free,     2208K buffers
- Swap:  3869704K total,  2866032K used,  1003672K free,  1949240K cached
-900%cpu 170%user   0%nice 152%sys 522%idle   0%iow  44%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 764M 333M S 70.3  10.1  24:58.84 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.4M S 14.8   0.1 296:51.13 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.2M S  7.4   0.1  44:04.43 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:45 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7305968K used,   433452K free,     2208K buffers
- Swap:  3869704K total,  2866032K used,  1003672K free,  1949280K cached
-900%cpu 167%user   0%nice 130%sys 552%idle   0%iow  44%irq   7%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 765M 333M S 70.3  10.1  24:59.99 com.instagram.a+
- 1020 mediacodec   20   0  11G  10M 7.2M S 11.1   0.1  44:04.61 samsung.hardwar+
- 1206 mediacodec   20   0  12G  12M 8.4M S  7.4   0.1 296:51.32 media.swcodec o+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:46 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7307628K used,   431792K free,     2208K buffers
- Swap:  3869704K total,  2865776K used,  1003928K free,  1949304K cached
-900%cpu 204%user   0%nice 159%sys 478%idle   0%iow  52%irq   7%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 752M 318M S 77.7   9.9  25:01.11 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.4M S 11.1   0.1 296:51.49 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.2M S  7.4   0.1  44:04.78 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:48 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7309488K used,   429932K free,     2208K buffers
- Swap:  3869704K total,  2865776K used,  1003928K free,  1949328K cached
-900%cpu 200%user   0%nice 152%sys 493%idle   0%iow  48%irq   7%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 753M 318M S 77.7   9.9  25:02.18 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.4M S  7.4   0.1 296:51.65 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.2M S  7.4   0.1  44:04.95 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:49 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7311768K used,   427652K free,     2208K buffers
- Swap:  3869704K total,  2865776K used,  1003928K free,  1950152K cached
-900%cpu 200%user   0%nice 137%sys 504%idle   0%iow  44%irq  15%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 755M 318M S 81.4   9.9  25:03.30 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.4M S 14.8   0.1 296:51.80 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.2M S 11.1   0.1  44:05.12 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:51 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7312796K used,   426624K free,     2208K buffers
- Swap:  3869704K total,  2865776K used,  1003928K free,  1950196K cached
-900%cpu 204%user   4%nice 196%sys 435%idle   0%iow  50%irq  12%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 757M 318M S 76.9  10.0  25:04.43 com.instagram.a+
- 1020 mediacodec   20   0  11G  10M 7.2M S 15.3   0.1  44:05.28 samsung.hardwar+
- 1206 mediacodec   20   0  12G  12M 8.4M S 11.5   0.1 296:51.97 media.swcodec o+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:52 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7313652K used,   425768K free,     2208K buffers
- Swap:  3869704K total,  2865776K used,  1003928K free,  1950228K cached
-900%cpu 208%user   0%nice 181%sys 450%idle   0%iow  50%irq  12%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 758M 318M S 80.7  10.0  25:05.56 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.4M S 11.5   0.1 296:52.11 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.2M S 11.5   0.1  44:05.46 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:53 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7311868K used,   427552K free,     2208K buffers
- Swap:  3869704K total,  2874000K used,   995704K free,  1950148K cached
-900%cpu 163%user   7%nice 159%sys 515%idle   0%iow  44%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 760M 318M S 88.8  10.0  25:06.69 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.5M S 14.8   0.1 296:52.26 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.2M S 11.1   0.1  44:05.62 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:55 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7309948K used,   429472K free,     2208K buffers
- Swap:  3869704K total,  2874000K used,   995704K free,  1950180K cached
-900%cpu 173%user   0%nice 169%sys 488%idle   0%iow  54%irq  15%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 761M 319M S 96.1  10.0  25:07.85 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.5M S 15.3   0.1 296:52.42 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.2M S 11.5   0.1  44:05.79 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:56 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7216952K used,   522468K free,     2208K buffers
- Swap:  3869704K total,  2885624K used,   984080K free,  1946188K cached
-900%cpu 174%user   4%nice 181%sys 478%idle   4%iow  44%irq  15%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 687M 319M S 77.7   9.0  25:09.13 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.5M S 11.1   0.1 296:52.58 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.2M S  7.4   0.1  44:05.94 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:58 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7222620K used,   516800K free,     2208K buffers
- Swap:  3869704K total,  2885624K used,   984080K free,  1946220K cached
-900%cpu 181%user   0%nice 159%sys 496%idle   0%iow  48%irq  15%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 688M 319M S 81.4   9.0  25:10.26 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.5M S 11.1   0.1 296:52.77 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.2M S 11.1   0.1  44:06.11 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:16:59 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7232912K used,   506508K free,     2208K buffers
- Swap:  3869704K total,  2885624K used,   984080K free,  1946936K cached
-900%cpu 141%user   7%nice 163%sys 526%idle   0%iow  44%irq  19%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 689M 319M S 70.3   9.1  25:11.37 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.5M S 14.8   0.1 296:52.92 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.2M S 11.1   0.1  44:06.27 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:00 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7230224K used,   509196K free,     2208K buffers
- Swap:  3869704K total,  2885624K used,   984080K free,  1946940K cached
-900%cpu 174%user   4%nice 152%sys 515%idle   0%iow  44%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 690M 319M S 77.7   9.1  25:12.44 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.5M S 14.8   0.1 296:53.08 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.2M S 11.1   0.1  44:06.42 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:02 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   1 running,   2 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7230092K used,   509328K free,     2208K buffers
- Swap:  3869704K total,  2885624K used,   984080K free,  1946972K cached
-900%cpu 178%user   0%nice 189%sys 474%idle   0%iow  44%irq  15%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
-[1m 9979 u0_a297       0 -20  23G 686M 315M R 74.0   9.0  25:13.54 com.instagram.a+[m
- 1206 mediacodec   20   0  12G  12M 8.6M S 14.8   0.1 296:53.25 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.2M S  7.4   0.1  44:06.59 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:03 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7232640K used,   506780K free,     2208K buffers
- Swap:  3869704K total,  2885624K used,   984080K free,  1949080K cached
-900%cpu 189%user   0%nice 189%sys 463%idle   0%iow  48%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 687M 315M S 77.7   9.0  25:14.62 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.6M S 11.1   0.1 296:53.41 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.3M S 11.1   0.1  44:06.75 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:04 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7237072K used,   502348K free,     2208K buffers
- Swap:  3869704K total,  2884856K used,   984848K free,  1949128K cached
-900%cpu 189%user   0%nice 167%sys 489%idle   0%iow  44%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 688M 315M S 81.4   9.1  25:15.78 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.6M S 11.1   0.1 296:53.60 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.3M S  7.4   0.1  44:06.94 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:06 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7237288K used,   502132K free,     2208K buffers
- Swap:  3869704K total,  2884856K used,   984848K free,  1949172K cached
-900%cpu 185%user   4%nice 138%sys 515%idle   0%iow  46%irq  12%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 689M 315M S 84.6   9.1  25:16.85 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.6M S 11.5   0.1 296:53.73 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.3M S 11.5   0.1  44:07.10 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:07 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   1 running,   2 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7243020K used,   496400K free,     2208K buffers
- Swap:  3869704K total,  2879736K used,   989968K free,  1949352K cached
-900%cpu 223%user   0%nice 188%sys 419%idle   4%iow  50%irq  15%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
-[1m 9979 u0_a297       0 -20  23G 690M 315M R 84.6   9.1  25:17.96 com.instagram.a+[m
- 1020 mediacodec   20   0  11G  10M 7.3M S 15.3   0.1  44:07.27 samsung.hardwar+
- 1206 mediacodec   20   0  12G  12M 8.6M S  7.6   0.1 296:53.90 media.swcodec o+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:09 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7207064K used,   532356K free,     2208K buffers
- Swap:  3869704K total,  2918288K used,   951416K free,  1943296K cached
-900%cpu 233%user   7%nice 144%sys 456%idle   0%iow  48%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 691M 315M S 88.8   9.1  25:19.06 com.instagram.a+
- 1020 mediacodec   20   0  11G  10M 7.3M S 14.8   0.1  44:07.43 samsung.hardwar+
- 1206 mediacodec   20   0  12G  12M 8.6M S 11.1   0.1 296:54.03 media.swcodec o+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:10 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7208580K used,   530840K free,     2208K buffers
- Swap:  3869704K total,  2918288K used,   951416K free,  1943168K cached
-900%cpu 207%user   0%nice 163%sys 467%idle   0%iow  48%irq  15%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 692M 315M S 77.7   9.1  25:20.23 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.7M S 14.8   0.1 296:54.22 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.3M S 11.1   0.1  44:07.63 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:11 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7207924K used,   531496K free,     2208K buffers
- Swap:  3869704K total,  2918288K used,   951416K free,  1943208K cached
-900%cpu 189%user   0%nice 196%sys 463%idle   0%iow  44%irq   7%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 694M 315M S 85.1   9.1  25:21.37 com.instagram.a+
- 1020 mediacodec   20   0  11G  10M 7.3M S 18.5   0.1  44:07.79 samsung.hardwar+
- 1206 mediacodec   20   0  12G  12M 8.7M S 14.8   0.1 296:54.39 media.swcodec o+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:13 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7209860K used,   529560K free,     2208K buffers
- Swap:  3869704K total,  2918288K used,   951416K free,  1943252K cached
-900%cpu 171%user   4%nice 150%sys 521%idle   0%iow  43%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 694M 315M S 78.5   9.1  25:22.46 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.7M S 10.7   0.1 296:54.56 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.3M S 10.7   0.1  44:07.97 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:14 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7213704K used,   525716K free,     2208K buffers
- Swap:  3869704K total,  2918032K used,   951672K free,  1943488K cached
-900%cpu 178%user   0%nice 174%sys 489%idle   0%iow  48%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 696M 315M S 70.3   9.2  25:23.57 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.7M S 14.8   0.1 296:54.69 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.3M S 11.1   0.1  44:08.13 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:16 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   1 running,   2 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7211476K used,   527944K free,     2208K buffers
- Swap:  3869704K total,  2918032K used,   951672K free,  1943684K cached
-900%cpu 200%user   0%nice 192%sys 442%idle   0%iow  54%irq  12%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
-[1m 9979 u0_a297       0 -20  23G 697M 315M R 92.3   9.2  25:24.72 com.instagram.a+[m
- 1020 mediacodec   20   0  11G  10M 7.3M S 15.3   0.1  44:08.31 samsung.hardwar+
- 1206 mediacodec   20   0  12G  12M 8.7M S  7.6   0.1 296:54.86 media.swcodec o+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:17 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7211244K used,   528176K free,     2208K buffers
- Swap:  3869704K total,  2917776K used,   951928K free,  1943720K cached
-900%cpu 193%user   4%nice 148%sys 504%idle   0%iow  44%irq   7%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 689M 306M S 81.4   9.1  25:25.86 com.instagram.a+
- 1020 mediacodec   20   0  11G  10M 7.3M S 11.1   0.1  44:08.49 samsung.hardwar+
- 1206 mediacodec   20   0  12G  12M 8.7M S  7.4   0.1 296:55.02 media.swcodec o+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:18 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7220012K used,   519408K free,     2208K buffers
- Swap:  3869704K total,  2917776K used,   951928K free,  1943752K cached
-900%cpu 161%user   0%nice 171%sys 514%idle   0%iow  43%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 690M 306M S 78.5   9.1  25:27.00 com.instagram.a+
- 1020 mediacodec   20   0  11G  10M 7.3M S 10.7   0.1  44:08.67 samsung.hardwar+
- 1206 mediacodec   20   0  12G  12M 8.7M S  7.1   0.1 296:55.17 media.swcodec o+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:20 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7223544K used,   515876K free,     2208K buffers
- Swap:  3869704K total,  2917776K used,   951928K free,  1943788K cached
-900%cpu 181%user   4%nice 156%sys 507%idle   0%iow  44%irq   7%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 691M 306M S 66.6   9.1  25:28.11 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.8M S 11.1   0.1 296:55.31 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.3M S  7.4   0.1  44:08.83 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:21 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7218476K used,   520944K free,     2208K buffers
- Swap:  3869704K total,  2917776K used,   951928K free,  1943840K cached
-900%cpu 204%user   0%nice 156%sys 481%idle   0%iow  48%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 691M 306M S 77.7   9.1  25:29.22 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.8M S 14.8   0.1 296:55.48 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.3M S 11.1   0.1  44:09.01 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:22 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7220132K used,   519288K free,     2208K buffers
- Swap:  3869704K total,  2917776K used,   951928K free,  1943868K cached
-900%cpu 174%user   0%nice 174%sys 489%idle   0%iow  48%irq  15%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 692M 306M S 70.3   9.1  25:30.40 com.instagram.a+
- 1206 mediacodec   20   0  12G  12M 8.8M S 11.1   0.1 296:55.66 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.3M S 11.1   0.1  44:09.19 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:24 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7224408K used,   515012K free,     2208K buffers
- Swap:  3869704K total,  2917776K used,   951928K free,  1943904K cached
-900%cpu 181%user   4%nice 163%sys 493%idle   0%iow  52%irq   7%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 694M 306M S 74.0   9.1  25:31.51 com.instagram.a+
- 1206 mediacodec   20   0  12G  13M 8.8M S 14.8   0.1 296:55.81 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.3M S  7.4   0.1  44:09.35 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:25 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7223144K used,   516276K free,     2208K buffers
- Swap:  3869704K total,  2917776K used,   951928K free,  1943940K cached
-900%cpu 178%user   0%nice 133%sys 533%idle   0%iow  44%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 694M 306M S 70.3   9.1  25:32.61 com.instagram.a+
- 1020 mediacodec   20   0  11G  10M 7.3M S 14.8   0.1  44:09.53 samsung.hardwar+
- 1206 mediacodec   20   0  12G  13M 9.1M S 11.1   0.1 296:55.98 media.swcodec o+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:27 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7225396K used,   514024K free,     2208K buffers
- Swap:  3869704K total,  2917776K used,   951928K free,  1943964K cached
-900%cpu 193%user   0%nice 178%sys 470%idle   0%iow  48%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 696M 306M S 77.7   9.2  25:33.68 com.instagram.a+
- 1206 mediacodec   20   0  12G  13M 9.1M S 11.1   0.1 296:56.13 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.3M S 11.1   0.1  44:09.68 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:28 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7225956K used,   513464K free,     2208K buffers
- Swap:  3869704K total,  2917776K used,   951928K free,  1943984K cached
-900%cpu 185%user   0%nice 167%sys 496%idle   0%iow  44%irq   7%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 696M 306M S 85.1   9.2  25:34.84 com.instagram.a+
- 1206 mediacodec   20   0  12G  13M 9.1M S 14.8   0.1 296:56.31 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.3M S 11.1   0.1  44:09.86 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:29 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7229256K used,   510164K free,     2208K buffers
- Swap:  3869704K total,  2917776K used,   951928K free,  1944044K cached
-900%cpu 223%user   4%nice 169%sys 442%idle   0%iow  50%irq  12%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 697M 306M S 92.3   9.2  25:35.94 com.instagram.a+
- 1020 mediacodec   20   0  11G  10M 7.3M S 15.3   0.1  44:10.03 samsung.hardwar+
- 1206 mediacodec   20   0  12G  13M 9.1M S 11.5   0.1 296:56.49 media.swcodec o+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:31 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7227884K used,   511536K free,     2208K buffers
- Swap:  3869704K total,  2917776K used,   951928K free,  1944060K cached
-900%cpu 204%user   4%nice 148%sys 481%idle   0%iow  48%irq  15%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 698M 306M S 74.0   9.2  25:37.14 com.instagram.a+
- 1206 mediacodec   20   0  12G  13M 9.1M S 11.1   0.1 296:56.65 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.3M S 11.1   0.1  44:10.21 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:32 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7230380K used,   509040K free,     2208K buffers
- Swap:  3869704K total,  2917776K used,   951928K free,  1944132K cached
-900%cpu 204%user   4%nice 200%sys 419%idle   4%iow  54%irq  15%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 697M 305M S  115   9.2  25:38.19 com.instagram.a+
- 1206 mediacodec   20   0  12G  13M 9.1M S 15.3   0.1 296:56.82 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.3M S 15.3   0.1  44:10.37 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:34 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7231176K used,   508244K free,     2208K buffers
- Swap:  3869704K total,  2917776K used,   951928K free,  1944152K cached
-900%cpu 193%user   0%nice 156%sys 496%idle   0%iow  44%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 698M 305M S 85.1   9.2  25:39.42 com.instagram.a+
- 1020 mediacodec   20   0  11G  10M 7.4M S 11.1   0.1  44:10.56 samsung.hardwar+
- 1206 mediacodec   20   0  12G  13M 9.2M S  7.4   0.1 296:57.02 media.swcodec o+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:35 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7232672K used,   506748K free,     2208K buffers
- Swap:  3869704K total,  2917776K used,   951928K free,  1944168K cached
-900%cpu 152%user   0%nice 152%sys 541%idle   0%iow  44%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 700M 305M S 77.7   9.2  25:40.57 com.instagram.a+
- 1206 mediacodec   20   0  12G  13M 9.2M S 11.1   0.1 296:57.16 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.6M S 11.1   0.1  44:10.73 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:36 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7237124K used,   502296K free,     2208K buffers
- Swap:  3869704K total,  2917776K used,   951928K free,  1946284K cached
-900%cpu 193%user   4%nice 148%sys 489%idle   0%iow  52%irq  15%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 700M 305M S 81.4   9.2  25:41.67 com.instagram.a+
- 1206 mediacodec   20   0  12G  13M 9.2M S 11.1   0.1 296:57.33 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.6M S 11.1   0.1  44:10.91 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:38 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7241896K used,   497524K free,     2208K buffers
- Swap:  3869704K total,  2917776K used,   951928K free,  1946304K cached
-900%cpu 167%user   4%nice 141%sys 533%idle   0%iow  44%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 701M 305M S 70.3   9.2  25:42.85 com.instagram.a+
- 1206 mediacodec   20   0  12G  13M 9.2M S 14.8   0.1 296:57.49 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.6M S 11.1   0.1  44:11.09 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:39 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7243940K used,   495480K free,     2208K buffers
- Swap:  3869704K total,  2917776K used,   951928K free,  1946336K cached
-900%cpu 200%user   4%nice 170%sys 459%idle   0%iow  52%irq  15%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 703M 305M S 85.1   9.2  25:43.99 com.instagram.a+
- 1206 mediacodec   20   0  12G  13M 9.2M S 14.8   0.1 296:57.65 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.6M S 14.8   0.1  44:11.26 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:40 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7258004K used,   481416K free,     2208K buffers
- Swap:  3869704K total,  2912912K used,   956792K free,  1948292K cached
-900%cpu 154%user  18%nice 143%sys 539%idle   0%iow  39%irq   7%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 704M 305M S 64.2   9.3  25:45.06 com.instagram.a+
- 1206 mediacodec   20   0  12G  13M 9.2M S 10.7   0.1 296:57.80 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.6M S 10.7   0.1  44:11.40 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:42 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7256648K used,   482772K free,     2208K buffers
- Swap:  3869704K total,  2912912K used,   956792K free,  1948596K cached
-900%cpu 208%user   0%nice 185%sys 438%idle   0%iow  54%irq  15%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 704M 305M S 88.4   9.3  25:46.17 com.instagram.a+
- 1020 mediacodec   20   0  11G  10M 7.6M S 19.2   0.1  44:11.55 samsung.hardwar+
- 1206 mediacodec   20   0  12G  13M 9.2M S 15.3   0.1 296:57.95 media.swcodec o+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:43 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7258788K used,   480632K free,     2208K buffers
- Swap:  3869704K total,  2912912K used,   956792K free,  1948652K cached
-900%cpu 208%user   0%nice 181%sys 446%idle   0%iow  54%irq  12%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 705M 305M S 84.6   9.3  25:47.32 com.instagram.a+
- 1206 mediacodec   20   0  12G  13M 9.3M S 15.3   0.1 296:58.10 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.6M S 15.3   0.1  44:11.74 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:45 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7262592K used,   476828K free,     2208K buffers
- Swap:  3869704K total,  2912912K used,   956792K free,  1948668K cached
-900%cpu 222%user   0%nice 211%sys 400%idle   0%iow  56%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 706M 305M S 85.1   9.3  25:48.43 com.instagram.a+
- 1206 mediacodec   20   0  12G  13M 9.3M S 14.8   0.1 296:58.30 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.6M S 14.8   0.1  44:11.93 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:46 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7264124K used,   475296K free,     2208K buffers
- Swap:  3869704K total,  2912912K used,   956792K free,  1948684K cached
-900%cpu 200%user   7%nice 167%sys 470%idle   0%iow  44%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 707M 305M S 81.4   9.3  25:49.56 com.instagram.a+
- 1206 mediacodec   20   0  12G  13M 9.3M S 11.1   0.1 296:58.46 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.7M S  7.4   0.1  44:12.11 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:47 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7248408K used,   491012K free,     2208K buffers
- Swap:  3869704K total,  2912912K used,   956792K free,  1947684K cached
-900%cpu 156%user  33%nice 148%sys 515%idle   0%iow  37%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 708M 305M S 66.6   9.3  25:50.57 com.instagram.a+
- 1020 mediacodec   20   0  11G  10M 7.7M S 11.1   0.1  44:12.25 samsung.hardwar+
- 1206 mediacodec   20   0  12G  13M 9.3M S  3.7   0.1 296:58.62 media.swcodec o+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:49 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7250548K used,   488872K free,     2208K buffers
- Swap:  3869704K total,  2912912K used,   956792K free,  1947624K cached
-900%cpu 177%user   0%nice 169%sys 488%idle   0%iow  50%irq  15%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 709M 305M S 80.7   9.3  25:51.62 com.instagram.a+
- 1206 mediacodec   20   0  12G  13M 9.3M S 11.5   0.1 296:58.75 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.7M S  7.6   0.1  44:12.39 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:50 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7251160K used,   488260K free,     2208K buffers
- Swap:  3869704K total,  2916308K used,   953396K free,  1947660K cached
-900%cpu 174%user   4%nice 181%sys 478%idle   4%iow  48%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 711M 305M S 70.3   9.4  25:52.67 com.instagram.a+
- 1020 mediacodec   20   0  11G  10M 7.7M S 11.1   0.1  44:12.54 samsung.hardwar+
- 1206 mediacodec   20   0  12G  13M 9.3M S  7.4   0.1 296:58.88 media.swcodec o+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:52 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7245044K used,   494376K free,     2208K buffers
- Swap:  3869704K total,  2917600K used,   952104K free,  1947580K cached
-900%cpu 230%user   0%nice 141%sys 470%idle   0%iow  48%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 711M 305M S 92.5   9.4  25:53.79 com.instagram.a+
- 1020 mediacodec   20   0  11G  10M 7.7M S 11.1   0.1  44:12.71 samsung.hardwar+
- 1206 mediacodec   20   0  12G  13M 9.3M S  7.4   0.1 296:59.04 media.swcodec o+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:53 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7246352K used,   493068K free,     2208K buffers
- Swap:  3869704K total,  2917600K used,   952104K free,  1947596K cached
-900%cpu 193%user  11%nice 167%sys 470%idle   0%iow  48%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 713M 305M S 70.3   9.4  25:54.97 com.instagram.a+
- 1206 mediacodec   20   0  12G  13M 9.3M S 11.1   0.1 296:59.20 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.7M S 11.1   0.1  44:12.88 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:54 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7248328K used,   491092K free,     2208K buffers
- Swap:  3869704K total,  2917600K used,   952104K free,  1947644K cached
-900%cpu 181%user   0%nice 189%sys 478%idle   0%iow  44%irq   7%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 714M 305M S 74.0   9.4  25:56.11 com.instagram.a+
- 1020 mediacodec   20   0  11G  10M 7.7M S 14.8   0.1  44:13.04 samsung.hardwar+
- 1206 mediacodec   20   0  12G  13M 9.3M S 11.1   0.1 296:59.39 media.swcodec o+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:56 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7259476K used,   479944K free,     2208K buffers
- Swap:  3869704K total,  2917600K used,   952104K free,  1947656K cached
-900%cpu 211%user   0%nice 148%sys 485%idle   0%iow  44%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 715M 305M S 81.4   9.4  25:57.26 com.instagram.a+
- 1206 mediacodec   20   0  12G  13M 9.3M S  7.4   0.1 296:59.56 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.7M S  7.4   0.1  44:13.23 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:57 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7254808K used,   484612K free,     2208K buffers
- Swap:  3869704K total,  2917600K used,   952104K free,  1947712K cached
-900%cpu 189%user   4%nice 148%sys 500%idle   0%iow  48%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 716M 306M S 77.7   9.4  25:58.40 com.instagram.a+
- 1020 mediacodec   20   0  11G  10M 7.7M S 14.8   0.1  44:13.39 samsung.hardwar+
- 1206 mediacodec   20   0  12G  13M 9.3M S 11.1   0.1 296:59.71 media.swcodec o+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:17:58 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7258332K used,   481088K free,     2208K buffers
- Swap:  3869704K total,  2916320K used,   953384K free,  1947736K cached
-900%cpu 185%user   0%nice 156%sys 500%idle   0%iow  48%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 718M 306M S 77.7   9.4  25:59.45 com.instagram.a+
- 1206 mediacodec   20   0  12G  13M 9.4M S 11.1   0.1 296:59.88 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.7M S 11.1   0.1  44:13.57 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:00 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7258656K used,   480764K free,     2208K buffers
- Swap:  3869704K total,  2916320K used,   953384K free,  1947756K cached
-900%cpu 152%user   4%nice 156%sys 530%idle   0%iow  44%irq  15%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 718M 306M S 74.0   9.5  26:00.55 com.instagram.a+
- 1206 mediacodec   20   0  12G  13M 9.4M S 11.1   0.1 297:00.04 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.7M S  7.4   0.1  44:13.73 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:01 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7262596K used,   476824K free,     2208K buffers
- Swap:  3869704K total,  2916320K used,   953384K free,  1948044K cached
-900%cpu 219%user   0%nice 196%sys 427%idle   0%iow  50%irq   8%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 720M 306M S 80.7   9.5  26:01.61 com.instagram.a+
- 1206 mediacodec   20   0  12G  13M 9.4M S 11.5   0.1 297:00.21 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.7M S  7.6   0.1  44:13.89 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:03 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7035996K used,   703424K free,     2332K buffers
- Swap:  3869704K total,  2913760K used,   955944K free,  1963212K cached
-900%cpu 141%user   7%nice 207%sys 496%idle   4%iow  33%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 723M 306M S 59.2   9.5  26:02.70 com.instagram.a+
- 1206 mediacodec   20   0  12G  30M  10M S 22.2   0.3 297:00.49 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.7M S  0.0   0.1  44:14.04 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:04 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7046356K used,   693064K free,     2332K buffers
- Swap:  3869704K total,  2913760K used,   955944K free,  1964252K cached
-900%cpu 232%user   4%nice 221%sys 393%idle   0%iow  39%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  30M  10M S  160   0.3 297:00.84 media.swcodec o+
- 9979 u0_a297       0 -20  23G 729M 310M S  125   9.6  26:03.52 com.instagram.a+
- 1020 mediacodec   20   0  11G  10M 7.7M S 14.2   0.1  44:14.06 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:05 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  6989740K used,   749680K free,     2332K buffers
- Swap:  3869704K total,  2913760K used,   955944K free,  1962288K cached
-900%cpu 193%user   7%nice 207%sys 446%idle   0%iow  36%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  30M  10M S  132   0.3 297:02.07 media.swcodec o+
- 9979 u0_a297       0 -20  23G 681M 310M S  103   9.0  26:04.86 com.instagram.a+
- 1020 mediacodec   20   0  11G  10M 7.7M S  7.1   0.1  44:14.15 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:07 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  6978152K used,   761268K free,     2332K buffers
- Swap:  3869704K total,  2913760K used,   955944K free,  1964384K cached
-900%cpu 186%user   0%nice 250%sys 421%idle   0%iow  32%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  30M  10M S  153   0.3 297:03.17 media.swcodec o+
- 9979 u0_a297       0 -20  23G 667M 310M S 96.4   8.8  26:06.03 com.instagram.a+
- 1020 mediacodec   20   0  11G  10M 7.7M S  7.1   0.1  44:14.22 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:08 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  6984368K used,   755052K free,     2332K buffers
- Swap:  3869704K total,  2913760K used,   955944K free,  1966988K cached
-900%cpu 200%user   4%nice 207%sys 439%idle   0%iow  36%irq  14%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  30M  10M S  135   0.3 297:04.28 media.swcodec o+
- 9979 u0_a297       0 -20  23G 671M 311M S  117   8.8  26:07.16 com.instagram.a+
- 1020 mediacodec   20   0  11G  10M 7.7M S 14.2   0.1  44:14.28 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:10 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  6989160K used,   750260K free,     2332K buffers
- Swap:  3869704K total,  2913760K used,   955944K free,  1967136K cached
-900%cpu 207%user  14%nice 186%sys 428%idle   0%iow  38%irq  28%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  30M  10M S  124   0.3 297:05.55 media.swcodec o+
- 9979 u0_a297       0 -20  23G 673M 311M S  110   8.9  26:08.38 com.instagram.a+
- 1020 mediacodec   20   0  11G  10M 7.7M S 13.7   0.1  44:14.38 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:11 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  6950592K used,   788828K free,     2332K buffers
- Swap:  3869704K total,  2913504K used,   956200K free,  1965380K cached
-900%cpu 189%user   4%nice 182%sys 471%idle   0%iow  36%irq  18%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 659M 312M S  132   8.7  26:10.02 com.instagram.a+
- 1206 mediacodec   20   0  12G  24M  10M S  100   0.3 297:07.01 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.7M S 14.2   0.1  44:14.49 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:13 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  6953172K used,   786248K free,     2332K buffers
- Swap:  3869704K total,  2913504K used,   956200K free,  1965444K cached
-900%cpu 189%user   4%nice 143%sys 507%idle   4%iow  36%irq  18%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 661M 312M S  132   8.7  26:11.49 com.instagram.a+
- 1206 mediacodec   20   0  12G  24M  10M S 96.4   0.3 297:08.12 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.7M S 10.7   0.1  44:14.62 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:14 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  6959512K used,   779908K free,     2332K buffers
- Swap:  3869704K total,  2913248K used,   956456K free,  1965480K cached
-900%cpu 179%user   7%nice 182%sys 475%idle   0%iow  36%irq  21%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 663M 312M S  142   8.7  26:13.14 com.instagram.a+
- 1206 mediacodec   20   0  12G  24M  10M S 96.4   0.3 297:09.46 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.7M S 14.2   0.1  44:14.81 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:16 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   1 running,   2 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  6966052K used,   773368K free,     2332K buffers
- Swap:  3869704K total,  2913248K used,   956456K free,  1965972K cached
-900%cpu 200%user   4%nice 218%sys 432%idle   0%iow  39%irq   7%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  30M  10M S  175   0.3 297:11.06 media.swcodec o+
-[1m 9979 u0_a297       0 -20  23G 664M 312M R  128   8.7  26:14.84 com.instagram.a+[m
- 1020 mediacodec   20   0  11G  10M 7.7M S 17.8   0.1  44:15.00 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:17 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  6960664K used,   778756K free,     2332K buffers
- Swap:  3869704K total,  2912992K used,   956712K free,  1966024K cached
-900%cpu 225%user   0%nice 196%sys 432%idle   0%iow  36%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 664M 312M S  153   8.7  26:16.62 com.instagram.a+
- 1206 mediacodec   20   0  12G  30M  10M S  150   0.3 297:13.01 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.7M S 10.7   0.1  44:15.22 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:19 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  6962344K used,   777076K free,     2332K buffers
- Swap:  3869704K total,  2912992K used,   956712K free,  1966056K cached
-900%cpu 257%user   4%nice 161%sys 421%idle   4%iow  39%irq  14%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  30M  10M S  146   0.3 297:14.91 media.swcodec o+
- 9979 u0_a297       0 -20  23G 660M 312M S  132   8.7  26:18.28 com.instagram.a+
- 1020 mediacodec   20   0  11G  10M 7.7M S 17.8   0.1  44:15.41 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:20 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  6971488K used,   767932K free,     2332K buffers
- Swap:  3869704K total,  2912736K used,   956968K free,  1972628K cached
-900%cpu 207%user   0%nice 157%sys 486%idle   0%iow  36%irq  14%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  30M  10M S  135   0.3 297:16.81 media.swcodec o+
- 9979 u0_a297       0 -20  23G 662M 312M S  125   8.7  26:19.91 com.instagram.a+
- 1020 mediacodec   20   0  11G  10M 7.7M S 17.8   0.1  44:15.60 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:22 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  6973296K used,   766124K free,     2332K buffers
- Swap:  3869704K total,  2912736K used,   956968K free,  1972660K cached
-900%cpu 246%user   0%nice 204%sys 396%idle   0%iow  39%irq  14%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  30M  10M S  171   0.3 297:18.77 media.swcodec o+
- 9979 u0_a297       0 -20  23G 664M 312M S  135   8.7  26:21.60 com.instagram.a+
- 1020 mediacodec   20   0  11G  10M 7.7M S 14.2   0.1  44:15.82 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:23 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  6972828K used,   766592K free,     2332K buffers
- Swap:  3869704K total,  2912736K used,   956968K free,  1972708K cached
-900%cpu 218%user   4%nice 193%sys 436%idle   0%iow  39%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  30M  10M S  146   0.3 297:20.83 media.swcodec o+
- 9979 u0_a297       0 -20  23G 666M 312M S  125   8.8  26:23.32 com.instagram.a+
- 1020 mediacodec   20   0  11G  10M 7.7M S 14.2   0.1  44:16.04 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:25 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  6951188K used,   788232K free,     2332K buffers
- Swap:  3869704K total,  2912480K used,   957224K free,  1972748K cached
-900%cpu 161%user  61%nice 186%sys 454%idle   0%iow  29%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 668M 312M S  175   8.8  26:25.08 com.instagram.a+
- 1206 mediacodec   20   0  12G  30M  11M S  142   0.3 297:22.88 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 7.7M S 14.2   0.1  44:16.25 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:26 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  6939768K used,   799652K free,     2332K buffers
- Swap:  3869704K total,  2904032K used,   965672K free,  1972148K cached
-900%cpu 244%user  11%nice 181%sys 404%idle   0%iow  41%irq  19%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  30M  11M S  155   0.3 297:24.75 media.swcodec o+
- 9979 u0_a297       0 -20  23G 631M 312M S  148   8.3  26:26.94 com.instagram.a+
- 1020 mediacodec   20   0  11G  10M 7.8M S 18.5   0.1  44:16.45 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:28 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   1 running,   2 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  6939952K used,   799468K free,     2332K buffers
- Swap:  3869704K total,  2904032K used,   965672K free,  1972172K cached
-900%cpu 214%user   7%nice 183%sys 441%idle   0%iow  38%irq  17%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  30M  11M S  168   0.3 297:26.66 media.swcodec o+
-[1m 9979 u0_a297       0 -20  23G 634M 312M R  131   8.3  26:28.69 com.instagram.a+[m
- 1020 mediacodec   20   0  11G  10M 7.8M S 13.7   0.1  44:16.68 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:29 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   1 running,   2 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  6939696K used,   799724K free,     2332K buffers
- Swap:  3869704K total,  2904032K used,   965672K free,  1972224K cached
-900%cpu 200%user   0%nice 193%sys 461%idle   0%iow  36%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  30M  11M S  157   0.3 297:28.51 media.swcodec o+
-[1m 9979 u0_a297       0 -20  23G 636M 312M R  121   8.4  26:30.42 com.instagram.a+[m
- 1020 mediacodec   20   0  11G  10M 7.8M S 14.2   0.1  44:16.89 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:30 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  6947440K used,   791980K free,     2332K buffers
- Swap:  3869704K total,  2904032K used,   965672K free,  1972248K cached
-900%cpu 164%user   0%nice 154%sys 532%idle   0%iow  36%irq  14%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  30M  11M S  139   0.3 297:30.55 media.swcodec o+
- 9979 u0_a297       0 -20  23G 638M 312M S  100   8.4  26:32.20 com.instagram.a+
- 1020 mediacodec   20   0  11G  10M 7.8M S 14.2   0.1  44:17.10 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:32 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   1 running,   2 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  6948596K used,   790824K free,     2332K buffers
- Swap:  3869704K total,  2904032K used,   965672K free,  1972280K cached
-900%cpu 211%user   0%nice 193%sys 450%idle   0%iow  36%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  30M  11M S  150   0.3 297:32.37 media.swcodec o+
-[1m 9979 u0_a297       0 -20  23G 639M 312M R  125   8.4  26:33.81 com.instagram.a+[m
- 1020 mediacodec   20   0  11G  10M 7.8M S 17.8   0.1  44:17.32 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:33 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7054836K used,   684584K free,     2336K buffers
- Swap:  3869704K total,  2904032K used,   965672K free,  2014464K cached
-900%cpu 255%user  10%nice 259%sys 300%idle   7%iow  38%irq  31%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  30M  11M S  106   0.3 297:34.15 media.swcodec o+
- 9979 u0_a297       0 -20  23G 642M 313M S 96.5   8.4  26:35.33 com.instagram.a+
- 1020 mediacodec   20   0  11G  10M 7.8M S 10.3   0.1  44:17.51 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:35 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7098180K used,   641240K free,     2336K buffers
- Swap:  3869704K total,  2903776K used,   965928K free,  2043192K cached
-900%cpu 252%user   0%nice 256%sys 333%idle   4%iow  37%irq  19%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  30M  11M S  129   0.3 297:35.69 media.swcodec o+
- 9979 u0_a297       0 -20  23G 644M 313M S  122   8.5  26:36.76 com.instagram.a+
- 1020 mediacodec   20   0  11G  10M 7.8M S 18.5   0.1  44:17.68 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:36 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7092016K used,   647404K free,     2336K buffers
- Swap:  3869704K total,  2903520K used,   966184K free,  2044288K cached
-900%cpu 200%user   0%nice 190%sys 457%idle   0%iow  37%irq  17%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  30M  11M S  153   0.3 297:37.43 media.swcodec o+
- 9979 u0_a297       0 -20  23G 631M 313M S  136   8.3  26:38.41 com.instagram.a+
- 1020 mediacodec   20   0  11G  10M 7.8M S 16.6   0.1  44:17.88 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:38 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7096200K used,   643220K free,     2336K buffers
- Swap:  3869704K total,  2903264K used,   966440K free,  2044312K cached
-900%cpu 207%user   4%nice 200%sys 439%idle   0%iow  36%irq  14%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  30M  11M S  146   0.3 297:39.38 media.swcodec o+
- 9979 u0_a297       0 -20  23G 633M 313M S  114   8.3  26:40.12 com.instagram.a+
- 1020 mediacodec   20   0  11G  10M 7.8M S 14.2   0.1  44:18.07 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:39 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7132876K used,   606544K free,     2336K buffers
- Swap:  3869704K total,  2903264K used,   966440K free,  2057252K cached
-900%cpu 232%user  11%nice 232%sys 357%idle   4%iow  39%irq  25%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 636M 313M S  114   8.4  26:41.74 com.instagram.a+
- 1206 mediacodec   20   0  12G  30M  11M S  110   0.4 297:41.20 media.swcodec o+
- 1020 mediacodec   20   0  11G  10M 8.1M S 10.7   0.1  44:18.24 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:41 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7166480K used,   572940K free,     2340K buffers
- Swap:  3869704K total,  2903008K used,   966696K free,  2076564K cached
-900%cpu 217%user   7%nice 214%sys 410%idle   3%iow  31%irq  17%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  30M  11M S  134   0.4 297:42.86 media.swcodec o+
- 9979 u0_a297       0 -20  23G 629M 305M S  117   8.3  26:43.28 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.2M S 10.3   0.1  44:18.49 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:42 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7171708K used,   567712K free,     2340K buffers
- Swap:  3869704K total,  2903008K used,   966696K free,  2082744K cached
-900%cpu 236%user   4%nice 189%sys 414%idle   4%iow  39%irq  14%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  30M  11M S  142   0.4 297:44.56 media.swcodec o+
- 9979 u0_a297       0 -20  23G 631M 305M S  121   8.3  26:44.84 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.2M S 17.8   0.1  44:18.67 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:44 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7153616K used,   585804K free,     2340K buffers
- Swap:  3869704K total,  2903008K used,   966696K free,  2084648K cached
-900%cpu 229%user   0%nice 200%sys 414%idle   0%iow  43%irq  14%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  30M  11M S  157   0.4 297:46.26 media.swcodec o+
- 9979 u0_a297       0 -20  23G 633M 305M S  146   8.3  26:46.41 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.2M S 21.4   0.1  44:18.85 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:45 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7126588K used,   612832K free,     2340K buffers
- Swap:  3869704K total,  2939876K used,   929828K free,  2084456K cached
-900%cpu 186%user   3%nice 276%sys 383%idle   0%iow  38%irq  14%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  30M  11M S  158   0.4 297:48.18 media.swcodec o+
- 9979 u0_a297       0 -20  23G 634M 305M S  131   8.3  26:48.09 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.2M S 13.7   0.1  44:19.08 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:47 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7027200K used,   712220K free,     2340K buffers
- Swap:  3869704K total,  2976380K used,   893324K free,  2018960K cached
-900%cpu 204%user  71%nice 175%sys 407%idle   0%iow  32%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 637M 305M S  192   8.4  26:49.68 com.instagram.a+
- 1206 mediacodec   20   0  12G  30M  11M S  146   0.4 297:50.03 media.swcodec o+
- 1020 mediacodec   20   0  11G  11M 8.2M S 14.2   0.1  44:19.27 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:48 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7020272K used,   719148K free,     2340K buffers
- Swap:  3869704K total,  2967932K used,   901772K free,  2018992K cached
-900%cpu 196%user   0%nice 186%sys 471%idle   0%iow  36%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  30M  11M S  150   0.4 297:51.94 media.swcodec o+
- 9979 u0_a297       0 -20  23G 621M 305M S  114   8.2  26:51.61 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.2M S 10.7   0.1  44:19.45 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:50 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7022284K used,   717136K free,     2340K buffers
- Swap:  3869704K total,  2967932K used,   901772K free,  2019012K cached
-900%cpu 221%user   0%nice 196%sys 432%idle   0%iow  36%irq  14%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  30M  11M S  171   0.4 297:53.98 media.swcodec o+
- 9979 u0_a297       0 -20  23G 623M 305M S  135   8.2  26:53.29 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.2M S 10.7   0.1  44:19.65 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:51 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7019708K used,   719712K free,     2340K buffers
- Swap:  3869704K total,  2967676K used,   902028K free,  2019056K cached
-900%cpu 224%user   0%nice 183%sys 441%idle   0%iow  38%irq  14%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  30M  11M S  165   0.4 297:55.94 media.swcodec o+
- 9979 u0_a297       0 -20  23G 625M 305M S  134   8.2  26:54.92 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.2M S 13.7   0.1  44:19.85 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:53 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7021792K used,   717628K free,     2340K buffers
- Swap:  3869704K total,  2967420K used,   902284K free,  2019080K cached
-900%cpu 200%user   0%nice 166%sys 486%idle   0%iow  34%irq  14%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  30M  11M S  141   0.4 297:57.92 media.swcodec o+
- 9979 u0_a297       0 -20  23G 627M 305M S  117   8.2  26:56.71 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.2M S 17.2   0.1  44:20.03 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:54 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7023596K used,   715824K free,     2340K buffers
- Swap:  3869704K total,  2967420K used,   902284K free,  2019104K cached
-900%cpu 221%user   4%nice 214%sys 411%idle   0%iow  36%irq  14%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  30M  11M S  167   0.4 297:59.74 media.swcodec o+
- 9979 u0_a297       0 -20  23G 628M 305M S  146   8.3  26:58.42 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.2M S 21.4   0.1  44:20.25 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:56 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7024840K used,   714580K free,     2340K buffers
- Swap:  3869704K total,  2967420K used,   902284K free,  2019132K cached
-900%cpu 217%user   0%nice 183%sys 438%idle   0%iow  41%irq  21%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 630M 305M S  134   8.3  27:00.15 com.instagram.a+
- 1206 mediacodec   20   0  12G  30M  11M S  134   0.4 298:01.70 media.swcodec o+
- 1020 mediacodec   20   0  11G  11M 8.2M S 13.7   0.1  44:20.46 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:57 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7028692K used,   710728K free,     2340K buffers
- Swap:  3869704K total,  2967420K used,   902284K free,  2019168K cached
-900%cpu 217%user   0%nice 193%sys 441%idle   0%iow  34%irq  14%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  11M S  182   0.4 298:03.51 media.swcodec o+
- 9979 u0_a297       0 -20  23G 632M 305M S  117   8.3  27:01.84 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.2M S 13.7   0.1  44:20.65 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:18:59 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   1 running,   2 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7028000K used,   711420K free,     2340K buffers
- Swap:  3869704K total,  2967420K used,   902284K free,  2019192K cached
-900%cpu  66%user   3%nice 138%sys 659%idle   0%iow  28%irq   7%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
-[1m 9979 u0_a297       0 -20  23G 633M 305M R 37.9   8.3  27:03.18 com.instagram.a+[m
- 1206 mediacodec   20   0  12G  31M  11M S 17.2   0.4 298:05.02 media.swcodec o+
- 1020 mediacodec   20   0  11G  11M 8.2M S  0.0   0.1  44:20.80 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:00 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7026340K used,   713080K free,     2340K buffers
- Swap:  3869704K total,  2967420K used,   902284K free,  2019208K cached
-900%cpu 214%user   0%nice 175%sys 464%idle   0%iow  36%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  11M S  160   0.4 298:06.42 media.swcodec o+
- 9979 u0_a297       0 -20  23G 620M 305M S  128   8.2  27:04.68 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.2M S 14.2   0.1  44:20.91 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:01 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   1 running,   2 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7027932K used,   711488K free,     2340K buffers
- Swap:  3869704K total,  2967420K used,   902284K free,  2021288K cached
-900%cpu 176%user   0%nice 210%sys 462%idle   0%iow  38%irq  14%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  11M S  131   0.4 298:08.36 media.swcodec o+
-[1m 9979 u0_a297       0 -20  23G 623M 305M R  120   8.2  27:06.41 com.instagram.a+[m
- 1020 mediacodec   20   0  11G  11M 8.2M S 13.7   0.1  44:21.11 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:03 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7030048K used,   709372K free,     2340K buffers
- Swap:  3869704K total,  2967420K used,   902284K free,  2021308K cached
-900%cpu 159%user   0%nice 166%sys 531%idle   0%iow  34%irq  10%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  11M S  141   0.4 298:10.26 media.swcodec o+
- 9979 u0_a297       0 -20  23G 625M 305M S  113   8.2  27:08.09 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.2M S 13.7   0.1  44:21.32 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:04 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7030196K used,   709224K free,     2340K buffers
- Swap:  3869704K total,  2967420K used,   902284K free,  2021356K cached
-900%cpu 232%user   4%nice 207%sys 400%idle   0%iow  39%irq  18%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  11M S  150   0.4 298:12.21 media.swcodec o+
- 9979 u0_a297       0 -20  23G 627M 305M S  139   8.2  27:09.77 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.2M S 17.8   0.1  44:21.52 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:06 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7032240K used,   707180K free,     2340K buffers
- Swap:  3869704K total,  2967420K used,   902284K free,  2021380K cached
-900%cpu 225%user   7%nice 229%sys 389%idle   0%iow  39%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  11M S  189   0.4 298:14.20 media.swcodec o+
- 9979 u0_a297       0 -20  23G 628M 305M S  139   8.3  27:11.42 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.2M S 21.4   0.1  44:21.73 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:07 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7030268K used,   709152K free,     2340K buffers
- Swap:  3869704K total,  2967420K used,   902284K free,  2021416K cached
-900%cpu 217%user   3%nice 141%sys 486%idle   0%iow  34%irq  17%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  11M S  137   0.4 298:16.24 media.swcodec o+
- 9979 u0_a297       0 -20  23G 630M 305M S  117   8.3  27:13.18 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.2M S 17.2   0.1  44:21.96 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:09 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7032632K used,   706788K free,     2340K buffers
- Swap:  3869704K total,  2967420K used,   902284K free,  2021428K cached
-900%cpu 214%user   7%nice 183%sys 445%idle   0%iow  38%irq  14%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  11M S  155   0.4 298:18.19 media.swcodec o+
- 9979 u0_a297       0 -20  23G 632M 305M S  144   8.3  27:14.82 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.2M S 17.2   0.1  44:22.17 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:10 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7022904K used,   716516K free,     2340K buffers
- Swap:  3869704K total,  2967420K used,   902284K free,  2021472K cached
-900%cpu 239%user   0%nice 171%sys 436%idle   0%iow  39%irq  14%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 621M 305M S  146   8.2  27:16.75 com.instagram.a+
- 1206 mediacodec   20   0  12G  31M  11M S  135   0.4 298:20.38 media.swcodec o+
- 1020 mediacodec   20   0  11G  11M 8.2M S 21.4   0.1  44:22.35 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:12 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7029216K used,   710204K free,     2340K buffers
- Swap:  3869704K total,  2967420K used,   902284K free,  2021496K cached
-900%cpu 231%user   3%nice 172%sys 434%idle   0%iow  41%irq  17%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  11M S  155   0.4 298:22.26 media.swcodec o+
- 9979 u0_a297       0 -20  23G 623M 305M S  141   8.2  27:18.45 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.2M S 17.2   0.1  44:22.55 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:13 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7031760K used,   707660K free,     2340K buffers
- Swap:  3869704K total,  2967420K used,   902284K free,  2021532K cached
-900%cpu 239%user   4%nice 214%sys 386%idle   0%iow  39%irq  18%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  11M S  167   0.4 298:24.31 media.swcodec o+
- 9979 u0_a297       0 -20  23G 625M 305M S  153   8.2  27:20.13 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.3M S 17.8   0.1  44:22.76 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:15 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7033272K used,   706148K free,     2340K buffers
- Swap:  3869704K total,  2967420K used,   902284K free,  2021552K cached
-900%cpu 207%user   0%nice 204%sys 437%idle   0%iow  37%irq  15%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  11M S  170   0.4 298:26.22 media.swcodec o+
- 9979 u0_a297       0 -20  23G 627M 305M S  125   8.2  27:21.83 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.3M S 14.8   0.1  44:22.95 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:16 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7030268K used,   709152K free,     2340K buffers
- Swap:  3869704K total,  2967420K used,   902284K free,  2021592K cached
-900%cpu 171%user   0%nice 189%sys 493%idle   0%iow  32%irq  14%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  11M S  132   0.4 298:28.17 media.swcodec o+
- 9979 u0_a297       0 -20  23G 629M 305M S  117   8.3  27:23.45 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.3M S 14.2   0.1  44:23.14 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:18 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7033040K used,   706380K free,     2340K buffers
- Swap:  3869704K total,  2967164K used,   902540K free,  2021616K cached
-900%cpu 214%user   3%nice 197%sys 431%idle   0%iow  38%irq  17%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  11M S  144   0.4 298:30.06 media.swcodec o+
- 9979 u0_a297       0 -20  23G 629M 305M S  141   8.3  27:25.08 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.3M S 17.2   0.1  44:23.35 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:19 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7037900K used,   701520K free,     2340K buffers
- Swap:  3869704K total,  2967164K used,   902540K free,  2021648K cached
-900%cpu 238%user   0%nice 166%sys 448%idle   0%iow  38%irq  10%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  11M S  144   0.4 298:31.98 media.swcodec o+
- 9979 u0_a297       0 -20  23G 632M 305M S  131   8.3  27:26.82 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.3M S 17.2   0.1  44:23.56 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:21 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   1 running,   2 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7031164K used,   708256K free,     2340K buffers
- Swap:  3869704K total,  2967164K used,   902540K free,  2021676K cached
-900%cpu 189%user  14%nice 207%sys 446%idle   0%iow  32%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
-[1m 9979 u0_a297       0 -20  23G 634M 305M R  139   8.3  27:28.45 com.instagram.a+[m
- 1206 mediacodec   20   0  12G  31M  11M S  125   0.4 298:33.89 media.swcodec o+
- 1020 mediacodec   20   0  11G  11M 8.3M S 10.7   0.1  44:23.76 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:22 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7032244K used,   707176K free,     2340K buffers
- Swap:  3869704K total,  2967164K used,   902540K free,  2021704K cached
-900%cpu 234%user   3%nice 221%sys 386%idle   3%iow  38%irq  14%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  11M S  175   0.4 298:35.80 media.swcodec o+
- 9979 u0_a297       0 -20  23G 622M 305M S  144   8.2  27:30.16 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.3M S 17.2   0.1  44:23.95 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:24 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7031380K used,   708040K free,     2340K buffers
- Swap:  3869704K total,  2967164K used,   902540K free,  2021724K cached
-900%cpu 218%user   0%nice 161%sys 471%idle   0%iow  36%irq  14%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  11M S  132   0.4 298:37.70 media.swcodec o+
- 9979 u0_a297       0 -20  23G 625M 305M S  128   8.2  27:31.87 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.3M S 10.7   0.1  44:24.15 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:25 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7034700K used,   704720K free,     2340K buffers
- Swap:  3869704K total,  2967164K used,   902540K free,  2021752K cached
-900%cpu 224%user   0%nice 190%sys 434%idle   0%iow  38%irq  14%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  11M S  151   0.4 298:39.47 media.swcodec o+
- 9979 u0_a297       0 -20  23G 626M 305M S  137   8.2  27:33.63 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.3M S 17.2   0.1  44:24.36 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:27 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7043520K used,   695900K free,     2340K buffers
- Swap:  3869704K total,  2967164K used,   902540K free,  2021772K cached
-900%cpu 239%user   4%nice 182%sys 414%idle   0%iow  39%irq  21%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  11M S  157   0.4 298:41.39 media.swcodec o+
- 9979 u0_a297       0 -20  23G 628M 305M S  132   8.3  27:35.42 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.3M S 14.2   0.1  44:24.59 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:28 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7044060K used,   695360K free,     2340K buffers
- Swap:  3869704K total,  2967164K used,   902540K free,  2021800K cached
-900%cpu 210%user   0%nice 141%sys 500%idle   0%iow  34%irq  14%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  11M S  134   0.4 298:43.27 media.swcodec o+
- 9979 u0_a297       0 -20  23G 630M 305M S  120   8.3  27:37.13 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.3M S 13.7   0.1  44:24.79 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:29 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7044008K used,   695412K free,     2340K buffers
- Swap:  3869704K total,  2967164K used,   902540K free,  2021820K cached
-900%cpu 239%user   0%nice 204%sys 400%idle   0%iow  43%irq  14%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  11M S  160   0.4 298:45.09 media.swcodec o+
- 9979 u0_a297       0 -20  23G 633M 306M S  135   8.3  27:38.74 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.3M S 14.2   0.1  44:25.00 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:31 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   1 running,   2 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7049736K used,   689684K free,     2340K buffers
- Swap:  3869704K total,  2967164K used,   902540K free,  2021840K cached
-900%cpu 200%user  50%nice 200%sys 400%idle   0%iow  39%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
-[1m 9979 u0_a297       0 -20  23G 634M 306M R  164   8.3  27:40.41 com.instagram.a+[m
- 1206 mediacodec   20   0  12G  31M  11M S  139   0.4 298:46.95 media.swcodec o+
- 1020 mediacodec   20   0  11G  11M 8.3M S 14.2   0.1  44:25.20 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:32 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7035056K used,   704364K free,     2340K buffers
- Swap:  3869704K total,  2967164K used,   902540K free,  2021864K cached
-900%cpu 207%user   0%nice 141%sys 503%idle   0%iow  34%irq  14%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  11M S  117   0.4 298:48.79 media.swcodec o+
- 9979 u0_a297       0 -20  23G 622M 306M S  113   8.2  27:42.30 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.3M S 13.7   0.1  44:25.40 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:34 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7038596K used,   700824K free,     2340K buffers
- Swap:  3869704K total,  2967164K used,   902540K free,  2021884K cached
-900%cpu 176%user   0%nice 141%sys 538%idle   0%iow  31%irq  14%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  11M S  127   0.4 298:50.79 media.swcodec o+
- 9979 u0_a297       0 -20  23G 624M 306M S  110   8.2  27:43.92 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.3M S 13.7   0.1  44:25.59 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:35 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7037628K used,   701792K free,     2340K buffers
- Swap:  3869704K total,  2967164K used,   902540K free,  2021916K cached
-900%cpu 207%user   0%nice 176%sys 472%idle   0%iow  34%irq  10%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  11M S  137   0.4 298:52.63 media.swcodec o+
- 9979 u0_a297       0 -20  23G 626M 306M S  120   8.2  27:45.58 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.3M S 13.7   0.1  44:25.79 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:37 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7050872K used,   688548K free,     2340K buffers
- Swap:  3869704K total,  2967164K used,   902540K free,  2023988K cached
-900%cpu 211%user   0%nice 164%sys 479%idle   0%iow  36%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  11M S  125   0.4 298:54.54 media.swcodec o+
- 9979 u0_a297       0 -20  23G 628M 306M S  117   8.3  27:47.31 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.3M S 10.7   0.1  44:25.99 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:38 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7050832K used,   688588K free,     2340K buffers
- Swap:  3869704K total,  2967164K used,   902540K free,  2024144K cached
-900%cpu 228%user   0%nice 190%sys 431%idle   0%iow  38%irq  14%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 630M 306M S  148   8.3  27:48.88 com.instagram.a+
- 1206 mediacodec   20   0  12G  31M  11M S  148   0.4 298:56.33 media.swcodec o+
- 1020 mediacodec   20   0  11G  11M 8.3M S 17.2   0.1  44:26.17 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:40 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7052580K used,   686840K free,     2340K buffers
- Swap:  3869704K total,  2967164K used,   902540K free,  2024164K cached
-900%cpu 172%user   0%nice 138%sys 548%idle   0%iow  31%irq  10%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  11M S  127   0.4 298:58.30 media.swcodec o+
- 9979 u0_a297       0 -20  23G 631M 306M S  106   8.3  27:50.62 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.3M S 10.3   0.1  44:26.37 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:41 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7052980K used,   686440K free,     2340K buffers
- Swap:  3869704K total,  2967164K used,   902540K free,  2024188K cached
-900%cpu 200%user   0%nice 162%sys 486%idle   0%iow  38%irq  14%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  11M S  137   0.4 299:00.12 media.swcodec o+
- 9979 u0_a297       0 -20  23G 634M 306M S  120   8.3  27:52.21 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.3M S 17.2   0.1  44:26.54 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:43 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7041968K used,   697452K free,     2340K buffers
- Swap:  3869704K total,  2967164K used,   902540K free,  2024232K cached
-900%cpu 182%user   4%nice 200%sys 468%idle   0%iow  36%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  11M S  153   0.4 299:02.04 media.swcodec o+
- 9979 u0_a297       0 -20  23G 622M 306M S  121   8.2  27:53.91 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.3M S 17.8   0.1  44:26.75 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:44 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7042432K used,   696988K free,     2340K buffers
- Swap:  3869704K total,  2967164K used,   902540K free,  2024272K cached
-900%cpu 221%user   0%nice 193%sys 438%idle   0%iow  38%irq  10%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  11M S  151   0.4 299:03.93 media.swcodec o+
- 9979 u0_a297       0 -20  23G 624M 306M S  127   8.2  27:55.54 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.3M S 17.2   0.1  44:26.98 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:46 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7043204K used,   696216K free,     2340K buffers
- Swap:  3869704K total,  2967164K used,   902540K free,  2024280K cached
-900%cpu 193%user   0%nice 224%sys 431%idle   0%iow  38%irq  14%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  11M S  172   0.4 299:05.90 media.swcodec o+
- 9979 u0_a297       0 -20  23G 626M 306M S  127   8.2  27:57.29 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.3M S 13.7   0.1  44:27.21 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:47 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7044064K used,   695356K free,     2340K buffers
- Swap:  3869704K total,  2967164K used,   902540K free,  2024312K cached
-900%cpu 233%user   7%nice 193%sys 407%idle   0%iow  41%irq  19%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  11M S  162   0.4 299:07.92 media.swcodec o+
- 9979 u0_a297       0 -20  23G 628M 306M S  137   8.3  27:58.94 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.3M S 22.2   0.1  44:27.41 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:49 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7053580K used,   685840K free,     2340K buffers
- Swap:  3869704K total,  2967164K used,   902540K free,  2024332K cached
-900%cpu 217%user   0%nice 210%sys 417%idle   0%iow  40%irq  17%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  11M S  146   0.4 299:09.94 media.swcodec o+
- 9979 u0_a297       0 -20  23G 629M 306M S  130   8.3  28:00.60 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.4M S 16.6   0.1  44:27.60 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:50 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7052532K used,   686888K free,     2340K buffers
- Swap:  3869704K total,  2967164K used,   902540K free,  2024400K cached
-900%cpu 214%user   3%nice 162%sys 469%idle   0%iow  38%irq  14%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  11M S  158   0.4 299:11.88 media.swcodec o+
- 9979 u0_a297       0 -20  23G 631M 306M S  127   8.3  28:02.38 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.4M S 17.2   0.1  44:27.80 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:52 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7055792K used,   683628K free,     2340K buffers
- Swap:  3869704K total,  2967164K used,   902540K free,  2024412K cached
-900%cpu 232%user   7%nice 196%sys 411%idle   0%iow  39%irq  14%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  11M S  167   0.4 299:13.87 media.swcodec o+
- 9979 u0_a297       0 -20  23G 633M 306M S  142   8.3  28:04.04 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.4M S 14.2   0.1  44:28.01 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:53 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7045612K used,   693808K free,     2340K buffers
- Swap:  3869704K total,  2967164K used,   902540K free,  2024444K cached
-900%cpu 218%user  39%nice 186%sys 407%idle   0%iow  32%irq  18%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 637M 306M S  153   8.4  28:05.83 com.instagram.a+
- 1206 mediacodec   20   0  12G  31M  11M S  135   0.4 299:15.70 media.swcodec o+
- 1020 mediacodec   20   0  11G  11M 8.4M S  7.1   0.1  44:28.22 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:55 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7044684K used,   694736K free,     2340K buffers
- Swap:  3869704K total,  2967164K used,   902540K free,  2024460K cached
-900%cpu 193%user   0%nice 217%sys 441%idle   0%iow  38%irq  10%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  11M S  165   0.4 299:17.47 media.swcodec o+
- 9979 u0_a297       0 -20  23G 623M 306M S  127   8.2  28:07.70 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.4M S 17.2   0.1  44:28.40 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:56 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7047488K used,   691932K free,     2340K buffers
- Swap:  3869704K total,  2967164K used,   902540K free,  2024480K cached
-900%cpu 214%user   7%nice 221%sys 403%idle   0%iow  38%irq  17%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  11M S  148   0.4 299:19.56 media.swcodec o+
- 9979 u0_a297       0 -20  23G 625M 306M S  120   8.2  28:09.41 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.4M S 17.2   0.1  44:28.63 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:57 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7046644K used,   692776K free,     2340K buffers
- Swap:  3869704K total,  2967164K used,   902540K free,  2024508K cached
-900%cpu 255%user   7%nice 179%sys 407%idle   0%iow  38%irq  14%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 626M 306M S  144   8.2  28:11.10 com.instagram.a+
- 1206 mediacodec   20   0  12G  31M  11M S  141   0.4 299:21.55 media.swcodec o+
- 1020 mediacodec   20   0  11G  11M 8.4M S 17.2   0.1  44:28.85 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:19:59 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7052968K used,   686452K free,     2340K buffers
- Swap:  3869704K total,  2967164K used,   902540K free,  2024536K cached
-900%cpu 218%user   4%nice 225%sys 407%idle   0%iow  36%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  12M S  142   0.4 299:23.36 media.swcodec o+
- 9979 u0_a297       0 -20  23G 629M 306M S  128   8.3  28:12.77 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.4M S 10.7   0.1  44:29.05 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:20:00 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7056764K used,   682656K free,     2340K buffers
- Swap:  3869704K total,  2967164K used,   902540K free,  2024556K cached
-900%cpu 214%user   0%nice 182%sys 450%idle   4%iow  39%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  12M S  142   0.4 299:25.32 media.swcodec o+
- 9979 u0_a297       0 -20  23G 630M 306M S  117   8.3  28:14.42 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.4M S 10.7   0.1  44:29.24 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:20:02 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7059652K used,   679768K free,     2340K buffers
- Swap:  3869704K total,  2967164K used,   902540K free,  2024572K cached
-900%cpu 203%user   7%nice 172%sys 476%idle   0%iow  31%irq  10%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  12M S  151   0.4 299:27.14 media.swcodec o+
- 9979 u0_a297       0 -20  23G 632M 307M S  113   8.3  28:16.08 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.4M S  6.8   0.1  44:29.44 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:20:03 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7061728K used,   677692K free,     2340K buffers
- Swap:  3869704K total,  2967164K used,   902540K free,  2024608K cached
-900%cpu 204%user   0%nice 226%sys 419%idle   0%iow  37%irq  15%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  12M S  185   0.4 299:29.10 media.swcodec o+
- 9979 u0_a297       0 -20  23G 634M 307M S  137   8.3  28:17.69 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.4M S 18.5   0.1  44:29.61 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:20:05 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7051180K used,   688240K free,     2340K buffers
- Swap:  3869704K total,  2967164K used,   902540K free,  2024628K cached
-900%cpu 203%user   0%nice 214%sys 431%idle   0%iow  38%irq  14%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  12M S  165   0.4 299:31.12 media.swcodec o+
- 9979 u0_a297       0 -20  23G 623M 307M S  131   8.2  28:19.44 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.4M S 13.7   0.1  44:29.79 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:20:06 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7050352K used,   689068K free,     2340K buffers
- Swap:  3869704K total,  2967164K used,   902540K free,  2024656K cached
-900%cpu 214%user   4%nice 179%sys 454%idle   0%iow  36%irq  14%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  12M S  160   0.4 299:33.17 media.swcodec o+
- 9979 u0_a297       0 -20  23G 625M 307M S  128   8.2  28:21.12 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.4M S 17.8   0.1  44:30.00 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:20:08 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7061092K used,   678328K free,     2340K buffers
- Swap:  3869704K total,  2958460K used,   911244K free,  2026720K cached
-900%cpu 193%user  17%nice 259%sys 383%idle   3%iow  34%irq  10%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  12M S  144   0.4 299:35.11 media.swcodec o+
- 9979 u0_a297       0 -20  23G 627M 307M S  120   8.3  28:22.80 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.4M S 10.3   0.1  44:30.22 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:20:09 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7063252K used,   676168K free,     2340K buffers
- Swap:  3869704K total,  2958460K used,   911244K free,  2026996K cached
-900%cpu 214%user   0%nice 172%sys 469%idle   0%iow  34%irq  10%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  12M S  148   0.4 299:37.09 media.swcodec o+
- 9979 u0_a297       0 -20  23G 629M 307M S  131   8.3  28:24.50 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.4M S 17.2   0.1  44:30.43 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:20:11 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7072412K used,   667008K free,     2340K buffers
- Swap:  3869704K total,  2958460K used,   911244K free,  2027524K cached
-900%cpu 169%user   0%nice 169%sys 521%idle   0%iow  31%irq  10%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  12M S  124   0.4 299:38.94 media.swcodec o+
- 9979 u0_a297       0 -20  23G 631M 307M S  106   8.3  28:26.25 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.4M S 10.3   0.1  44:30.66 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:20:12 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7072976K used,   666444K free,     2340K buffers
- Swap:  3869704K total,  2958460K used,   911244K free,  2027232K cached
-900%cpu 175%user   4%nice 193%sys 482%idle   0%iow  32%irq  14%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  12M S  142   0.4 299:40.77 media.swcodec o+
- 9979 u0_a297       0 -20  23G 634M 308M S  117   8.3  28:27.77 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.4M S  3.5   0.1  44:30.85 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:20:14 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7074916K used,   664504K free,     2340K buffers
- Swap:  3869704K total,  2958460K used,   911244K free,  2027252K cached
-900%cpu 210%user   3%nice 210%sys 421%idle   0%iow  38%irq  17%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  12M S  151   0.4 299:42.60 media.swcodec o+
- 9979 u0_a297       0 -20  23G 635M 306M S  127   8.3  28:29.42 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.4M S 17.2   0.1  44:31.01 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:20:15 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7064328K used,   675092K free,     2340K buffers
- Swap:  3869704K total,  2958460K used,   911244K free,  2027284K cached
-900%cpu 217%user   0%nice 186%sys 452%idle   0%iow  34%irq  10%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  12M S  155   0.4 299:44.50 media.swcodec o+
- 9979 u0_a297       0 -20  23G 623M 306M S  141   8.2  28:31.33 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.4M S 13.7   0.1  44:31.23 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:20:17 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7064244K used,   675176K free,     2340K buffers
- Swap:  3869704K total,  2958460K used,   911244K free,  2027296K cached
-900%cpu 197%user   3%nice 179%sys 466%idle   0%iow  38%irq  17%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  12M S  137   0.4 299:46.34 media.swcodec o+
- 9979 u0_a297       0 -20  23G 625M 307M S  124   8.2  28:33.06 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.4M S 13.7   0.1  44:31.45 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:20:18 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   1 running,   2 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7055428K used,   683992K free,     2340K buffers
- Swap:  3869704K total,  2967484K used,   902220K free,  2027276K cached
-900%cpu 182%user   0%nice 193%sys 475%idle   4%iow  32%irq  14%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  12M S  139   0.4 299:48.21 media.swcodec o+
-[1m 9979 u0_a297       0 -20  23G 627M 307M R  114   8.2  28:34.72 com.instagram.a+[m
- 1020 mediacodec   20   0  11G  11M 8.4M S 14.2   0.1  44:31.67 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:20:20 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7056188K used,   683232K free,     2340K buffers
- Swap:  3869704K total,  2967484K used,   902220K free,  2027288K cached
-900%cpu 232%user   4%nice 143%sys 464%idle   0%iow  39%irq  18%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  12M S  150   0.4 299:50.18 media.swcodec o+
- 9979 u0_a297       0 -20  23G 628M 307M S  142   8.3  28:36.35 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.4M S 17.8   0.1  44:31.87 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:20:21 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   1 running,   2 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7059440K used,   679980K free,     2340K buffers
- Swap:  3869704K total,  2967484K used,   902220K free,  2027308K cached
-900%cpu 256%user   0%nice 196%sys 389%idle   0%iow  41%irq  19%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  12M S  162   0.4 299:52.08 media.swcodec o+
-[1m 9979 u0_a297       0 -20  23G 630M 307M R  151   8.3  28:38.02 com.instagram.a+[m
- 1020 mediacodec   20   0  11G  11M 8.4M S 18.5   0.1  44:32.10 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:20:23 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7061344K used,   678076K free,     2340K buffers
- Swap:  3869704K total,  2967228K used,   902476K free,  2027324K cached
-900%cpu 261%user   0%nice 179%sys 407%idle   0%iow  39%irq  14%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  12M S  164   0.4 299:53.97 media.swcodec o+
- 9979 u0_a297       0 -20  23G 632M 307M S  139   8.3  28:39.78 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.4M S 17.8   0.1  44:32.31 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:20:24 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   1 running,   2 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7064872K used,   674548K free,     2340K buffers
- Swap:  3869704K total,  2967228K used,   902476K free,  2027340K cached
-900%cpu 225%user   0%nice 179%sys 439%idle   0%iow  43%irq  14%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  12M S  132   0.4 299:55.98 media.swcodec o+
-[1m 9979 u0_a297       0 -20  23G 634M 307M R  128   8.3  28:41.49 com.instagram.a+[m
- 1020 mediacodec   20   0  11G  11M 8.5M S 10.7   0.1  44:32.52 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:20:26 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7061232K used,   678188K free,     2340K buffers
- Swap:  3869704K total,  2967228K used,   902476K free,  2027356K cached
-900%cpu 214%user  18%nice 186%sys 436%idle   0%iow  36%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 636M 307M S  167   8.4  28:43.26 com.instagram.a+
- 1206 mediacodec   20   0  12G  31M  12M S  146   0.4 299:57.88 media.swcodec o+
- 1020 mediacodec   20   0  11G  11M 8.5M S 14.2   0.1  44:32.72 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:20:27 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7063232K used,   676188K free,     2340K buffers
- Swap:  3869704K total,  2959036K used,   910668K free,  2027984K cached
-900%cpu 219%user   7%nice 196%sys 422%idle   0%iow  41%irq  15%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 624M 307M S  155   8.2  28:44.96 com.instagram.a+
- 1206 mediacodec   20   0  12G  31M  12M S  144   0.4 299:59.63 media.swcodec o+
- 1020 mediacodec   20   0  11G  11M 8.5M S 14.8   0.1  44:32.91 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:20:28 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7062288K used,   677132K free,     2340K buffers
- Swap:  3869704K total,  2959036K used,   910668K free,  2028284K cached
-900%cpu 236%user   0%nice 214%sys 389%idle   0%iow  43%irq  18%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  12M S  164   0.4 300:01.59 media.swcodec o+
- 9979 u0_a297       0 -20  23G 625M 307M S  153   8.2  28:46.69 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.5M S 17.8   0.1  44:33.11 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:20:30 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7066112K used,   673308K free,     2340K buffers
- Swap:  3869704K total,  2959036K used,   910668K free,  2028296K cached
-900%cpu 207%user   4%nice 186%sys 457%idle   0%iow  39%irq   7%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  12M S  142   0.4 300:03.53 media.swcodec o+
- 9979 u0_a297       0 -20  23G 628M 307M S  128   8.3  28:48.36 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.5M S 17.8   0.1  44:33.32 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:20:31 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7067868K used,   671552K free,     2340K buffers
- Swap:  3869704K total,  2959036K used,   910668K free,  2028316K cached
-900%cpu 211%user   4%nice 178%sys 456%idle   0%iow  41%irq  11%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  12M S  144   0.4 300:05.35 media.swcodec o+
- 9979 u0_a297       0 -20  23G 629M 307M S  133   8.3  28:50.04 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.5M S 14.8   0.1  44:33.53 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:20:33 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   1 running,   2 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7068872K used,   670548K free,     2340K buffers
- Swap:  3869704K total,  2959036K used,   910668K free,  2028336K cached
-900%cpu 196%user  11%nice 168%sys 475%idle   0%iow  36%irq  14%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  12M S  132   0.4 300:07.30 media.swcodec o+
-[1m 9979 u0_a297       0 -20  23G 631M 307M R  128   8.3  28:51.68 com.instagram.a+[m
- 1020 mediacodec   20   0  11G  11M 8.5M S 17.8   0.1  44:33.71 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:20:34 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7070612K used,   668808K free,     2340K buffers
- Swap:  3869704K total,  2959036K used,   910668K free,  2028352K cached
-900%cpu 197%user   0%nice 169%sys 486%idle   0%iow  34%irq  14%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 9979 u0_a297       0 -20  23G 632M 307M S  134   8.3  28:53.38 com.instagram.a+
- 1206 mediacodec   20   0  12G  31M  12M S  131   0.4 300:09.12 media.swcodec o+
- 1020 mediacodec   20   0  11G  11M 8.5M S 17.2   0.1  44:33.94 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:20:36 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7072596K used,   666824K free,     2340K buffers
- Swap:  3869704K total,  2959036K used,   910668K free,  2028372K cached
-900%cpu 217%user   3%nice 159%sys 466%idle   0%iow  38%irq  17%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  12M S  134   0.4 300:10.97 media.swcodec o+
- 9979 u0_a297       0 -20  23G 634M 307M S  131   8.3  28:55.10 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.5M S 17.2   0.1  44:34.14 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[KTimestamp: Tue Nov  4 12:20:37 EST 2025
-[s[999C[999B[6n[u[H[J[?25l[H[J[s[999C[999B[6n[uTasks: 3 total,   0 running,   3 sleeping,   0 stopped,   0 zombie
-  Mem:  7739420K total,  7056404K used,   683016K free,     2340K buffers
- Swap:  3869704K total,  2968836K used,   900868K free,  2027912K cached
-900%cpu 228%user   7%nice 190%sys 424%idle   0%iow  41%irq  10%sirq   0%host
-[7m  PID USER         PR  NI VIRT  RES  SHR S[%CPU] %MEM     TIME+ ARGS            [0m
- 1206 mediacodec   20   0  12G  31M  12M S  137   0.4 300:12.93 media.swcodec o+
- 9979 u0_a297       0 -20  23G 623M 307M S  134   8.2  28:56.93 com.instagram.a+
- 1020 mediacodec   20   0  11G  11M 8.7M S 13.7   0.1  44:34.33 samsung.hardwar+[?25h[0m[999H[K[?25h[?25h[0m[999H[K
