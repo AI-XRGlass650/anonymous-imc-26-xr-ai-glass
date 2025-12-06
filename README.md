@@ -59,6 +59,7 @@ distance_power_logcat/                # Distance and power measurement data and 
 live_ai_interaction/                  # Meta AI data, notebooks and generated plots for live AI interaction tests
 live_video_streaming-conferencing/    # Live streaming & conferencing notebooks, CPU/utilization and throughput-latency data + plots
 power_tests/                          # Additional power test data and scripts
+transmission_power_algorithm_Data     # Adaptive transmission power algorithm Data and Notebook
 workflow.png                            # System architecture diagram
 README.md                             # This file
 ```
@@ -101,8 +102,6 @@ jupyter notebook Meta_AI_Bitrate_Plot_Notebook.ipynb
 
 3. The notebook will save generated figures in the folder's `Plots/` directory (or an adjacent `Plots/` folder). See each folder README for exact output filenames and figure numbers.
 
-If you prefer scripted generation, many folders include small helper scripts or utilities; run those from the folder where they reside.
-
 
 
 ---
@@ -111,7 +110,6 @@ If you prefer scripted generation, many folders include small helper scripts or 
 
 To reproduce figures and tables, run the notebooks or helper scripts found in the relevant analysis folder. Notebooks are designed to load local CSV/Excel/PCAP inputs from the same directory or a `data/` subfolder — inspect the first code cell to adjust paths if necessary.
 
-If you want, I can add a short table mapping notebook filenames to produced figure filenames (and figure numbers) across the repository — tell me which folders to prioritize and I will generate that mapping.
 
 ---
 
