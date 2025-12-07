@@ -61,6 +61,7 @@ live_video_streaming-conferencing/    # Live streaming & conferencing notebooks,
 power_tests/                          # Additional power test data and scripts
 transmission_power_algorithm_Data     # Adaptive transmission power algorithm Data and Notebook
 workflow.png                            # System architecture diagram
+dragon/                   # Proprietary in-house application framework for Dragon Smart glasses
 README.md                             # This file
 ```
 
